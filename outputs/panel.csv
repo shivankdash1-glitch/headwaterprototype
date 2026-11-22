@@ -1,0 +1,1214 @@
+zip,year,shutoffs,utility,n_utilities,customers,customers_complete,shutoffs_per_1k_customers,population,median_income,pct_people_of_color,city,typical_annual_bill,cost_burden,synthetic
+07001,2019,103.0,Middlesex Water,1,2732.0,True,37.70131771595901,17132.0,75947.0,0.6780877889,Avenel,,,False
+07001,2022,21.0,Middlesex Water,1,2732.0,True,7.686676427525622,17132.0,75947.0,0.6780877889,Avenel,,,False
+07001,2023,101.0,Middlesex Water,1,2732.0,True,36.9692532942899,17132.0,75947.0,0.6780877889,Avenel,,,False
+07001,2024,40.0,Middlesex Water,1,2732.0,True,14.641288433382138,17132.0,75947.0,0.6780877889,Avenel,,,False
+07006,2019,0.0,New Jersey American Water,1,52.0,True,0.0,26403.0,131864.0,0.2327765784,Caldwell,,,False
+07006,2022,0.0,New Jersey American Water,1,52.0,True,0.0,26403.0,131864.0,0.2327765784,Caldwell,,,False
+07006,2023,0.0,New Jersey American Water,1,52.0,True,0.0,26403.0,131864.0,0.2327765784,Caldwell,,,False
+07006,2024,1.0,New Jersey American Water,1,52.0,True,19.23076923076923,26403.0,131864.0,0.2327765784,Caldwell,,,False
+07008,2019,199.0,Middlesex Water,1,5586.0,True,35.624776226279984,25085.0,74623.0,0.7754036277,Carteret,,,False
+07008,2022,81.0,Middlesex Water,1,5586.0,True,14.500537056928035,25085.0,74623.0,0.7754036277,Carteret,,,False
+07008,2023,153.0,Middlesex Water,1,5586.0,True,27.389903329752954,25085.0,74623.0,0.7754036277,Carteret,,,False
+07008,2024,180.0,Middlesex Water,1,5586.0,True,32.223415682062296,25085.0,74623.0,0.7754036277,Carteret,,,False
+07009,2019,0.0,New Jersey American Water,1,98.0,True,0.0,13073.0,139701.0,0.2039317678,Cedar Grove,,,False
+07009,2022,0.0,New Jersey American Water,1,98.0,True,0.0,13073.0,139701.0,0.2039317678,Cedar Grove,,,False
+07009,2023,0.0,New Jersey American Water,1,98.0,True,0.0,13073.0,139701.0,0.2039317678,Cedar Grove,,,False
+07009,2024,0.0,New Jersey American Water,1,98.0,True,0.0,13073.0,139701.0,0.2039317678,Cedar Grove,,,False
+07010,2022,35.0,Veolia New Jersey,1,,False,,25515.0,89387.0,0.582010582,Cliffside Park,,,False
+07010,2023,23.0,Veolia New Jersey,1,,False,,25515.0,89387.0,0.582010582,Cliffside Park,,,False
+07010,2024,21.0,Veolia New Jersey,1,,False,,25515.0,89387.0,0.582010582,Cliffside Park,,,False
+07016,2019,97.0,New Jersey American Water,1,7319.0,True,13.253176663478618,23823.0,139394.0,0.1375561431999999,Cranford,,,False
+07016,2022,26.0,New Jersey American Water,1,7319.0,True,3.552397868561279,23823.0,139394.0,0.1375561431999999,Cranford,,,False
+07016,2023,25.0,New Jersey American Water,1,7319.0,True,3.415767181308922,23823.0,139394.0,0.1375561431999999,Cranford,,,False
+07016,2024,32.0,New Jersey American Water,1,7319.0,True,4.37218199207542,23823.0,139394.0,0.1375561431999999,Cranford,,,False
+07020,2019,0.0,New Jersey American Water,1,1.0,True,0.0,14234.0,126483.0,0.6608121399,Edgewater,,,False
+07020,2022,9.0,Veolia New Jersey,1,,False,,14234.0,126483.0,0.6608121399,Edgewater,,,False
+07020,2023,2.0,Veolia New Jersey,1,,False,,14234.0,126483.0,0.6608121399,Edgewater,,,False
+07020,2024,5.0,Veolia New Jersey,1,,False,,14234.0,126483.0,0.6608121399,Edgewater,,,False
+07021,2019,0.0,New Jersey American Water,1,,False,,2270.0,250001.0,0.1991189427,Essex Fells,,,False
+07021,2022,5.0,Veolia New Jersey,2,,False,,2270.0,250001.0,0.1991189427,Essex Fells,,,False
+07021,2023,6.0,Veolia New Jersey,1,,False,,2270.0,250001.0,0.1991189427,Essex Fells,,,False
+07022,2022,35.0,Veolia New Jersey,1,,False,,14918.0,54904.0,0.639495911,Fairview,,,False
+07022,2023,55.0,Veolia New Jersey,1,,False,,14918.0,54904.0,0.639495911,Fairview,,,False
+07022,2024,39.0,Veolia New Jersey,1,,False,,14918.0,54904.0,0.639495911,Fairview,,,False
+07023,2019,28.0,New Jersey American Water,1,2525.0,True,11.089108910891088,7727.0,178311.0,0.2535265951,Fanwood,,,False
+07023,2022,11.0,New Jersey American Water,1,2525.0,True,4.356435643564357,7727.0,178311.0,0.2535265951,Fanwood,,,False
+07023,2023,3.0,New Jersey American Water,1,2525.0,True,1.188118811881188,7727.0,178311.0,0.2535265951,Fanwood,,,False
+07023,2024,10.0,New Jersey American Water,1,2525.0,True,3.9603960396039604,7727.0,178311.0,0.2535265951,Fanwood,,,False
+07024,2022,46.0,Veolia New Jersey,1,,False,,39701.0,92456.0,0.594896854,Fort Lee,,,False
+07024,2023,50.0,Veolia New Jersey,1,,False,,39701.0,92456.0,0.594896854,Fort Lee,,,False
+07024,2024,59.0,Veolia New Jersey,1,,False,,39701.0,92456.0,0.594896854,Fort Lee,,,False
+07026,2024,4.0,Veolia New Jersey,1,,False,,32481.0,66296.0,0.4619931652,Garfield,,,False
+07027,2019,20.0,New Jersey American Water,1,1469.0,True,13.614703880190605,4425.0,92981.0,0.2709604519999999,Garwood,,,False
+07027,2022,9.0,New Jersey American Water,1,1469.0,True,6.126616746085773,4425.0,92981.0,0.2709604519999999,Garwood,,,False
+07027,2023,20.0,New Jersey American Water,1,1469.0,True,13.614703880190605,4425.0,92981.0,0.2709604519999999,Garwood,,,False
+07027,2024,8.0,New Jersey American Water,1,1469.0,True,5.4458815520762425,4425.0,92981.0,0.2709604519999999,Garwood,,,False
+07033,2019,40.0,New Jersey American Water,1,2737.0,True,14.614541468761418,8377.0,107316.0,0.4216306554,Kenilworth,,,False
+07033,2022,29.0,New Jersey American Water,1,2737.0,True,10.595542564852028,8377.0,107316.0,0.4216306554,Kenilworth,,,False
+07033,2023,34.0,New Jersey American Water,1,2737.0,True,12.422360248447205,8377.0,107316.0,0.4216306554,Kenilworth,,,False
+07033,2024,27.0,New Jersey American Water,1,2737.0,True,9.864815491413957,8377.0,107316.0,0.4216306554,Kenilworth,,,False
+07036,2019,281.0,New Jersey American Water,1,10481.0,True,26.810418853162865,44931.0,79129.0,0.6400925864,Linden,,,False
+07036,2022,161.0,New Jersey American Water,1,10481.0,True,15.361129663200076,44931.0,79129.0,0.6400925864,Linden,,,False
+07036,2023,423.0,New Jersey American Water,1,10481.0,True,40.35874439461883,44931.0,79129.0,0.6400925864,Linden,,,False
+07036,2024,223.0,New Jersey American Water,1,10481.0,True,21.27659574468085,44931.0,79129.0,0.6400925864,Linden,,,False
+07039,2019,0.0,New Jersey American Water,1,1.0,True,0.0,31103.0,176991.0,0.4062630613999999,Livingston,,,False
+07039,2022,0.0,New Jersey American Water,1,1.0,True,0.0,31103.0,176991.0,0.4062630613999999,Livingston,,,False
+07039,2023,0.0,New Jersey American Water,1,1.0,True,0.0,31103.0,176991.0,0.4062630613999999,Livingston,,,False
+07039,2024,0.0,New Jersey American Water,1,1.0,True,0.0,31103.0,176991.0,0.4062630613999999,Livingston,,,False
+07040,2019,138.0,New Jersey American Water,1,6405.0,True,21.54566744730679,25420.0,156477.0,0.4966168371,Maplewood,,,False
+07040,2022,85.0,New Jersey American Water,1,6405.0,True,13.27088212334114,25420.0,156477.0,0.4966168371,Maplewood,,,False
+07040,2023,13.0,New Jersey American Water,1,6405.0,True,2.029664324746292,25420.0,156477.0,0.4966168371,Maplewood,,,False
+07040,2024,58.0,New Jersey American Water,1,6405.0,True,9.055425448868071,25420.0,156477.0,0.4966168371,Maplewood,,,False
+07041,2019,8.0,New Jersey American Water,1,2009.0,True,3.982080637132902,7352.0,180000.0,0.4398803047,Millburn,,,False
+07041,2022,7.0,New Jersey American Water,1,2009.0,True,3.484320557491289,7352.0,180000.0,0.4398803047,Millburn,,,False
+07041,2023,1.0,New Jersey American Water,1,2009.0,True,0.49776007964161273,7352.0,180000.0,0.4398803047,Millburn,,,False
+07041,2024,7.0,New Jersey American Water,1,2009.0,True,3.484320557491289,7352.0,180000.0,0.4398803047,Millburn,,,False
+07042,2019,0.0,New Jersey American Water,1,8.0,True,0.0,28049.0,128581.0,0.5337445185,Montclair,,,False
+07042,2022,0.0,New Jersey American Water,1,8.0,True,0.0,28049.0,128581.0,0.5337445185,Montclair,,,False
+07042,2024,0.0,New Jersey American Water,1,8.0,True,0.0,28049.0,128581.0,0.5337445185,Montclair,,,False
+07043,2019,0.0,New Jersey American Water,1,9.0,True,0.0,13051.0,225263.0,0.2215922152,Montclair,,,False
+07043,2022,0.0,New Jersey American Water,1,9.0,True,0.0,13051.0,225263.0,0.2215922152,Montclair,,,False
+07043,2023,0.0,New Jersey American Water,1,9.0,True,0.0,13051.0,225263.0,0.2215922152,Montclair,,,False
+07043,2024,0.0,New Jersey American Water,1,9.0,True,0.0,13051.0,225263.0,0.2215922152,Montclair,,,False
+07047,2022,114.0,Veolia New Jersey,1,,False,,62686.0,70934.0,0.7873049804,North Bergen,,,False
+07047,2023,252.0,Veolia New Jersey,1,,False,,62686.0,70934.0,0.7873049804,North Bergen,,,False
+07047,2024,249.0,Veolia New Jersey,1,,False,,62686.0,70934.0,0.7873049804,North Bergen,,,False
+07050,2022,0.0,New Jersey American Water,1,,False,,33505.0,48504.0,0.9508431577,Orange,,,False
+07050,2023,0.0,New Jersey American Water,1,,False,,33505.0,48504.0,0.9508431577,Orange,,,False
+07050,2024,0.0,New Jersey American Water,1,,False,,33505.0,48504.0,0.9508431577,Orange,,,False
+07052,2019,93.0,New Jersey American Water,1,11992.0,True,7.75517011340894,48480.0,118326.0,0.5554455446,West Orange,,,False
+07052,2022,221.0,New Jersey American Water,1,11992.0,True,18.42895263509006,48480.0,118326.0,0.5554455446,West Orange,,,False
+07052,2023,24.0,New Jersey American Water,1,11992.0,True,2.0013342228152102,48480.0,118326.0,0.5554455446,West Orange,,,False
+07052,2024,46.0,New Jersey American Water,1,11992.0,True,3.835890593729153,48480.0,118326.0,0.5554455446,West Orange,,,False
+07055,2024,0.0,New Jersey American Water,1,3.0,True,0.0,70308.0,49436.0,0.8428912784000001,Passaic,,,False
+07059,2019,87.0,New Jersey American Water,1,4178.0,True,20.823360459550024,16198.0,180708.0,0.2940486479999999,Warren,,,False
+07059,2022,17.0,New Jersey American Water,1,4178.0,True,4.068932503590235,16198.0,180708.0,0.2940486479999999,Warren,,,False
+07059,2023,4.0,New Jersey American Water,1,4178.0,True,0.9573958831977023,16198.0,180708.0,0.2940486479999999,Warren,,,False
+07059,2024,15.0,New Jersey American Water,1,4178.0,True,3.5902345619913834,16198.0,180708.0,0.2940486479999999,Warren,,,False
+07060,2019,362.0,New Jersey American Water,2,7794.0,True,46.445984090325894,47683.0,62414.0,0.8747981461000001,Plainfield,,,False
+07060,2022,111.0,New Jersey American Water,2,7794.0,True,14.24172440338722,47683.0,62414.0,0.8747981461000001,Plainfield,,,False
+07060,2023,99.0,New Jersey American Water,2,7794.0,True,12.702078521939955,47683.0,62414.0,0.8747981461000001,Plainfield,,,False
+07060,2024,187.0,New Jersey American Water,1,7790.0,True,24.005134788189988,47683.0,62414.0,0.8747981461000001,Plainfield,,,False
+07062,2019,188.0,New Jersey American Water,1,3431.0,True,54.794520547945204,14357.0,83640.0,0.8353416452000001,Plainfield,,,False
+07062,2022,54.0,New Jersey American Water,1,3431.0,True,15.738851646750218,14357.0,83640.0,0.8353416452000001,Plainfield,,,False
+07062,2023,55.0,New Jersey American Water,1,3431.0,True,16.03031186243078,14357.0,83640.0,0.8353416452000001,Plainfield,,,False
+07062,2024,53.0,New Jersey American Water,1,3431.0,True,15.44739143106966,14357.0,83640.0,0.8353416452000001,Plainfield,,,False
+07063,2019,140.0,New Jersey American Water,1,3182.0,True,43.99748585795098,14764.0,69750.0,0.8933893254,Plainfield,,,False
+07063,2022,29.0,New Jersey American Water,1,3182.0,True,9.113764927718416,14764.0,69750.0,0.8933893254,Plainfield,,,False
+07063,2023,59.0,New Jersey American Water,1,3182.0,True,18.541797611565052,14764.0,69750.0,0.8933893254,Plainfield,,,False
+07063,2024,95.0,New Jersey American Water,1,3182.0,True,29.855436832181017,14764.0,69750.0,0.8933893254,Plainfield,,,False
+07064,2019,56.0,Middlesex Water,1,2.0,True,28000.0,3920.0,124228.0,0.712755102,Port Reading,,,False
+07064,2022,30.0,Middlesex Water,1,2.0,True,15000.0,3920.0,124228.0,0.712755102,Port Reading,,,False
+07064,2023,23.0,Middlesex Water,1,2.0,True,11500.0,3920.0,124228.0,0.712755102,Port Reading,,,False
+07064,2024,47.0,Middlesex Water,1,2.0,True,23500.0,3920.0,124228.0,0.712755102,Port Reading,,,False
+07065,2019,0.0,Middlesex Water,2,5.0,True,0.0,29582.0,81368.0,0.6571901832,Rahway,,,False
+07065,2022,0.0,Middlesex Water,2,5.0,True,0.0,29582.0,81368.0,0.6571901832,Rahway,,,False
+07065,2023,0.0,Middlesex Water,2,5.0,True,0.0,29582.0,81368.0,0.6571901832,Rahway,,,False
+07065,2024,0.0,New Jersey American Water,1,4.0,True,0.0,29582.0,81368.0,0.6571901832,Rahway,,,False
+07066,2019,62.0,New Jersey American Water,2,4828.0,True,12.84175642087821,15445.0,114141.0,0.1774684364,Clark,,,False
+07066,2022,23.0,New Jersey American Water,2,4828.0,True,4.763877381938691,15445.0,114141.0,0.1774684364,Clark,,,False
+07066,2023,11.0,New Jersey American Water,2,4828.0,True,2.2783761391880697,15445.0,114141.0,0.1774684364,Clark,,,False
+07066,2024,23.0,New Jersey American Water,2,4828.0,True,4.763877381938691,15445.0,114141.0,0.1774684364,Clark,,,False
+07067,2019,92.0,Middlesex Water,1,6789.0,True,13.551333038739136,18776.0,109331.0,0.3742543673,Colonia,,,False
+07067,2022,20.0,Middlesex Water,1,6789.0,True,2.9459419649432905,18776.0,109331.0,0.3742543673,Colonia,,,False
+07067,2023,98.0,Middlesex Water,1,6789.0,True,14.435115628222125,18776.0,109331.0,0.3742543673,Colonia,,,False
+07067,2024,53.0,Middlesex Water,1,6789.0,True,7.80674620709972,18776.0,109331.0,0.3742543673,Colonia,,,False
+07068,2022,0.0,New Jersey American Water,1,,False,,6240.0,145994.0,0.2092948717999999,Roseland,,,False
+07069,2019,32.0,New Jersey American Water,1,1639.0,True,19.524100061012813,6696.0,139583.0,0.2252090799999999,Watchung,,,False
+07069,2022,11.0,New Jersey American Water,1,1639.0,True,6.7114093959731544,6696.0,139583.0,0.2252090799999999,Watchung,,,False
+07069,2023,12.0,New Jersey American Water,1,1639.0,True,7.3215375228798045,6696.0,139583.0,0.2252090799999999,Watchung,,,False
+07069,2024,11.0,New Jersey American Water,1,1639.0,True,6.7114093959731544,6696.0,139583.0,0.2252090799999999,Watchung,,,False
+07070,2022,30.0,Veolia New Jersey,1,,False,,18781.0,118462.0,0.4152601032999999,Rutherford,,,False
+07070,2023,82.0,Veolia New Jersey,1,,False,,18781.0,118462.0,0.4152601032999999,Rutherford,,,False
+07070,2024,58.0,Veolia New Jersey,1,,False,,18781.0,118462.0,0.4152601032999999,Rutherford,,,False
+07072,2022,16.0,Veolia New Jersey,1,,False,,6358.0,108479.0,0.2820069203999999,Carlstadt,,,False
+07072,2023,47.0,Veolia New Jersey,1,,False,,6358.0,108479.0,0.2820069203999999,Carlstadt,,,False
+07072,2024,49.0,Veolia New Jersey,1,,False,,6358.0,108479.0,0.2820069203999999,Carlstadt,,,False
+07073,2022,5.0,Veolia New Jersey,1,,False,,9918.0,86592.0,0.3834442428,East Rutherford,,,False
+07073,2023,20.0,Veolia New Jersey,1,,False,,9918.0,86592.0,0.3834442428,East Rutherford,,,False
+07073,2024,21.0,Veolia New Jersey,1,,False,,9918.0,86592.0,0.3834442428,East Rutherford,,,False
+07074,2022,7.0,Veolia New Jersey,1,,False,,3079.0,83125.0,0.6771679116999999,Moonachie,,,False
+07074,2023,2.0,Veolia New Jersey,1,,False,,3079.0,83125.0,0.6771679116999999,Moonachie,,,False
+07074,2024,5.0,Veolia New Jersey,1,,False,,3079.0,83125.0,0.6771679116999999,Moonachie,,,False
+07075,2022,22.0,Veolia New Jersey,1,,False,,9865.0,123184.0,0.3969589458,Wood Ridge,,,False
+07075,2023,25.0,Veolia New Jersey,1,,False,,9865.0,123184.0,0.3969589458,Wood Ridge,,,False
+07075,2024,19.0,Veolia New Jersey,1,,False,,9865.0,123184.0,0.3969589458,Wood Ridge,,,False
+07076,2019,164.0,New Jersey American Water,1,7597.0,True,21.587468737659602,24737.0,161348.0,0.3477382059,Scotch Plains,,,False
+07076,2022,52.0,New Jersey American Water,1,7597.0,True,6.844807160721337,24737.0,161348.0,0.3477382059,Scotch Plains,,,False
+07076,2023,31.0,New Jersey American Water,1,7597.0,True,4.080558115045413,24737.0,161348.0,0.3477382059,Scotch Plains,,,False
+07076,2024,64.0,New Jersey American Water,1,7597.0,True,8.424378043964722,24737.0,161348.0,0.3477382059,Scotch Plains,,,False
+07077,2019,27.0,Middlesex Water,1,10.0,True,2700.0,3342.0,101532.0,0.5589467385,Sewaren,,,False
+07077,2022,27.0,Middlesex Water,1,10.0,True,2700.0,3342.0,101532.0,0.5589467385,Sewaren,,,False
+07077,2023,19.0,Middlesex Water,1,10.0,True,1900.0,3342.0,101532.0,0.5589467385,Sewaren,,,False
+07077,2024,19.0,Middlesex Water,1,10.0,True,1900.0,3342.0,101532.0,0.5589467385,Sewaren,,,False
+07078,2019,21.0,New Jersey American Water,1,4100.0,True,5.121951219512195,14285.0,250001.0,0.4606930347,Short Hills,,,False
+07078,2022,15.0,New Jersey American Water,1,4100.0,True,3.658536585365854,14285.0,250001.0,0.4606930347,Short Hills,,,False
+07078,2023,5.0,New Jersey American Water,1,4100.0,True,1.2195121951219512,14285.0,250001.0,0.4606930347,Short Hills,,,False
+07078,2024,6.0,New Jersey American Water,1,4100.0,True,1.4634146341463414,14285.0,250001.0,0.4606930347,Short Hills,,,False
+07079,2019,1.0,New Jersey American Water,1,46.0,True,21.73913043478261,18450.0,158333.0,0.4058536585,South Orange,,,False
+07079,2022,0.0,New Jersey American Water,1,46.0,True,0.0,18450.0,158333.0,0.4058536585,South Orange,,,False
+07079,2023,0.0,New Jersey American Water,1,46.0,True,0.0,18450.0,158333.0,0.4058536585,South Orange,,,False
+07079,2024,1.0,New Jersey American Water,1,46.0,True,21.73913043478261,18450.0,158333.0,0.4058536585,South Orange,,,False
+07080,2019,304.0,New Jersey American Water,2,7434.0,True,40.89319343556632,24251.0,114293.0,0.4752381344999999,South Plainfield,,,False
+07080,2022,83.0,Middlesex Water,2,7434.0,True,11.164917944578962,24251.0,114293.0,0.4752381344999999,South Plainfield,,,False
+07080,2023,120.0,Middlesex Water,2,7434.0,True,16.142050040355127,24251.0,114293.0,0.4752381344999999,South Plainfield,,,False
+07080,2024,179.0,New Jersey American Water,2,7434.0,True,24.078557976863063,24251.0,114293.0,0.4752381344999999,South Plainfield,,,False
+07081,2019,33.0,New Jersey American Water,2,4447.0,True,7.420733078479874,17004.0,137390.0,0.3716184427,Springfield,,,False
+07081,2022,40.0,New Jersey American Water,2,4447.0,True,8.994827973915,17004.0,137390.0,0.3716184427,Springfield,,,False
+07081,2023,14.0,New Jersey American Water,2,4447.0,True,3.1481897908702496,17004.0,137390.0,0.3716184427,Springfield,,,False
+07081,2024,18.0,New Jersey American Water,1,4446.0,True,4.048582995951417,17004.0,137390.0,0.3716184427,Springfield,,,False
+07083,2019,419.0,New Jersey American Water,2,15385.0,True,27.234319142021448,56903.0,105578.0,0.6673813330999999,Union,,,False
+07083,2022,191.0,New Jersey American Water,2,15385.0,True,12.414689632759181,56903.0,105578.0,0.6673813330999999,Union,,,False
+07083,2023,229.0,New Jersey American Water,2,15385.0,True,14.884627884302892,56903.0,105578.0,0.6673813330999999,Union,,,False
+07083,2024,363.0,New Jersey American Water,1,15384.0,True,23.59594383775351,56903.0,105578.0,0.6673813330999999,Union,,,False
+07086,2022,6.0,Veolia New Jersey,1,,False,,16215.0,104892.0,0.5644156645,Weehawken,,,False
+07086,2023,29.0,Veolia New Jersey,1,,False,,16215.0,104892.0,0.5644156645,Weehawken,,,False
+07086,2024,25.0,Veolia New Jersey,1,,False,,16215.0,104892.0,0.5644156645,Weehawken,,,False
+07087,2019,0.0,New Jersey American Water,1,,False,,67903.0,53177.0,0.8606099878000001,Union City,,,False
+07087,2022,74.0,Veolia New Jersey,2,,False,,67903.0,53177.0,0.8606099878000001,Union City,,,False
+07087,2023,260.0,Veolia New Jersey,2,,False,,67903.0,53177.0,0.8606099878000001,Union City,,,False
+07087,2024,223.0,Veolia New Jersey,2,,False,,67903.0,53177.0,0.8606099878000001,Union City,,,False
+07088,2019,44.0,New Jersey American Water,1,785.0,True,56.05095541401274,2922.0,76875.0,0.9223134839,Vauxhall,,,False
+07088,2022,20.0,New Jersey American Water,1,785.0,True,25.477707006369428,2922.0,76875.0,0.9223134839,Vauxhall,,,False
+07088,2023,17.0,New Jersey American Water,1,785.0,True,21.656050955414013,2922.0,76875.0,0.9223134839,Vauxhall,,,False
+07088,2024,19.0,New Jersey American Water,1,785.0,True,24.203821656050955,2922.0,76875.0,0.9223134839,Vauxhall,,,False
+07090,2019,86.0,New Jersey American Water,1,9568.0,True,8.988294314381271,30967.0,185093.0,0.2240126586,Westfield,,,False
+07090,2022,35.0,New Jersey American Water,1,9568.0,True,3.658026755852843,30967.0,185093.0,0.2240126586,Westfield,,,False
+07090,2023,19.0,New Jersey American Water,1,9568.0,True,1.9857859531772575,30967.0,185093.0,0.2240126586,Westfield,,,False
+07090,2024,27.0,New Jersey American Water,1,9568.0,True,2.82190635451505,30967.0,185093.0,0.2240126586,Westfield,,,False
+07092,2019,12.0,New Jersey American Water,1,2482.0,True,4.8348106365834,7047.0,134808.0,0.2559954591,Mountainside,,,False
+07092,2022,12.0,New Jersey American Water,1,2482.0,True,4.8348106365834,7047.0,134808.0,0.2559954591,Mountainside,,,False
+07092,2023,8.0,New Jersey American Water,1,2482.0,True,3.2232070910556003,7047.0,134808.0,0.2559954591,Mountainside,,,False
+07092,2024,12.0,New Jersey American Water,1,2482.0,True,4.8348106365834,7047.0,134808.0,0.2559954591,Mountainside,,,False
+07093,2022,128.0,Veolia New Jersey,1,,False,,64318.0,65843.0,0.8335458192,West New York,,,False
+07093,2023,229.0,Veolia New Jersey,1,,False,,64318.0,65843.0,0.8335458192,West New York,,,False
+07093,2024,129.0,Veolia New Jersey,1,,False,,64318.0,65843.0,0.8335458192,West New York,,,False
+07094,2022,14.0,Veolia New Jersey,1,,False,,21439.0,125246.0,0.5885069266,Secaucus,,,False
+07094,2023,31.0,Veolia New Jersey,1,,False,,21439.0,125246.0,0.5885069266,Secaucus,,,False
+07094,2024,34.0,Veolia New Jersey,1,,False,,21439.0,125246.0,0.5885069266,Secaucus,,,False
+07095,2019,163.0,Middlesex Water,1,10664.0,True,15.285071267816955,21314.0,96919.0,0.5909261518000001,Woodbridge,,,False
+07095,2022,63.0,Middlesex Water,1,10664.0,True,5.907726931732933,21314.0,96919.0,0.5909261518000001,Woodbridge,,,False
+07095,2023,111.0,Middlesex Water,1,10664.0,True,10.408852213053263,21314.0,96919.0,0.5909261518000001,Woodbridge,,,False
+07095,2024,109.0,Middlesex Water,1,10664.0,True,10.221305326331583,21314.0,96919.0,0.5909261518000001,Woodbridge,,,False
+07106,2019,0.0,New Jersey American Water,1,8.0,True,0.0,35724.0,43288.0,0.9806292688,Newark,,,False
+07106,2022,0.0,New Jersey American Water,1,8.0,True,0.0,35724.0,43288.0,0.9806292688,Newark,,,False
+07106,2023,0.0,New Jersey American Water,1,8.0,True,0.0,35724.0,43288.0,0.9806292688,Newark,,,False
+07106,2024,0.0,New Jersey American Water,1,8.0,True,0.0,35724.0,43288.0,0.9806292688,Newark,,,False
+07108,2019,0.0,New Jersey American Water,1,,False,,28267.0,29657.0,0.9946580819,Newark,,,False
+07108,2023,0.0,New Jersey American Water,1,,False,,28267.0,29657.0,0.9946580819,Newark,,,False
+07108,2024,0.0,New Jersey American Water,1,,False,,28267.0,29657.0,0.9946580819,Newark,,,False
+07111,2019,58.0,New Jersey American Water,1,5882.0,True,9.86059163549813,60224.0,50020.0,0.9725358661,Irvington,,,False
+07111,2022,419.0,New Jersey American Water,1,5882.0,True,71.23427405644338,60224.0,50020.0,0.9725358661,Irvington,,,False
+07111,2023,121.0,New Jersey American Water,1,5882.0,True,20.571234274056444,60224.0,50020.0,0.9725358661,Irvington,,,False
+07111,2024,1.0,New Jersey American Water,1,5882.0,True,0.17001020061203673,60224.0,50020.0,0.9725358661,Irvington,,,False
+07114,2023,0.0,New Jersey American Water,1,,False,,13617.0,25042.0,0.8667107292,Newark,,,False
+07114,2024,0.0,New Jersey American Water,1,,False,,13617.0,25042.0,0.8667107292,Newark,,,False
+07202,2019,0.0,New Jersey American Water,1,9.0,True,0.0,43795.0,57911.0,0.8687521407,Elizabeth,,,False
+07202,2022,0.0,New Jersey American Water,1,9.0,True,0.0,43795.0,57911.0,0.8687521407,Elizabeth,,,False
+07202,2023,0.0,New Jersey American Water,1,9.0,True,0.0,43795.0,57911.0,0.8687521407,Elizabeth,,,False
+07202,2024,0.0,New Jersey American Water,1,9.0,True,0.0,43795.0,57911.0,0.8687521407,Elizabeth,,,False
+07203,2019,164.0,New Jersey American Water,1,5084.0,True,32.25806451612903,22511.0,68369.0,0.8676646973,Roselle,,,False
+07203,2022,78.0,New Jersey American Water,1,5084.0,True,15.342250196695515,22511.0,68369.0,0.8676646973,Roselle,,,False
+07203,2023,173.0,New Jersey American Water,1,5084.0,True,34.02832415420929,22511.0,68369.0,0.8676646973,Roselle,,,False
+07203,2024,161.0,New Jersey American Water,1,5084.0,True,31.66797797010228,22511.0,68369.0,0.8676646973,Roselle,,,False
+07204,2019,64.0,New Jersey American Water,1,3269.0,True,19.57785255429795,13973.0,85427.0,0.6020897445,Roselle Park,,,False
+07204,2022,22.0,New Jersey American Water,1,3269.0,True,6.7298868155399205,13973.0,85427.0,0.6020897445,Roselle Park,,,False
+07204,2023,37.0,New Jersey American Water,1,3269.0,True,11.318446007953503,13973.0,85427.0,0.6020897445,Roselle Park,,,False
+07204,2024,60.0,New Jersey American Water,1,3269.0,True,18.354236769654328,13973.0,85427.0,0.6020897445,Roselle Park,,,False
+07205,2019,337.0,New Jersey American Water,1,5565.0,True,60.5570530098832,22319.0,82850.0,0.8014695999,Hillside,,,False
+07205,2022,113.0,New Jersey American Water,1,5565.0,True,20.305480682839175,22319.0,82850.0,0.8014695999,Hillside,,,False
+07205,2023,391.0,New Jersey American Water,2,,False,,22319.0,82850.0,0.8014695999,Hillside,,,False
+07205,2024,198.0,New Jersey American Water,1,5565.0,True,35.57951482479784,22319.0,82850.0,0.8014695999,Hillside,,,False
+07208,2019,0.0,New Jersey American Water,1,11.0,True,0.0,34383.0,54683.0,0.8164209056999999,Elizabeth,,,False
+07208,2022,0.0,New Jersey American Water,1,11.0,True,0.0,34383.0,54683.0,0.8164209056999999,Elizabeth,,,False
+07208,2023,0.0,New Jersey American Water,1,11.0,True,0.0,34383.0,54683.0,0.8164209056999999,Elizabeth,,,False
+07208,2024,1.0,New Jersey American Water,1,11.0,True,90.9090909090909,34383.0,54683.0,0.8164209056999999,Elizabeth,,,False
+07401,2024,5.0,Veolia New Jersey,1,,False,,6820.0,165599.0,0.2432551319999999,Allendale,,,False
+07416,2019,3.0,New Jersey American Water,1,4.0,True,750.0,5544.0,80264.0,0.1682900433,Franklin,,,False
+07416,2022,0.0,New Jersey American Water,1,4.0,True,0.0,5544.0,80264.0,0.1682900433,Franklin,,,False
+07416,2023,2.0,New Jersey American Water,1,4.0,True,500.0,5544.0,80264.0,0.1682900433,Franklin,,,False
+07416,2024,1.0,New Jersey American Water,1,4.0,True,250.0,5544.0,80264.0,0.1682900433,Franklin,,,False
+07417,2022,4.0,Veolia New Jersey,1,,False,,11037.0,188217.0,0.2147322642,Franklin Lakes,,,False
+07417,2023,13.0,Veolia New Jersey,1,,False,,11037.0,188217.0,0.2147322642,Franklin Lakes,,,False
+07417,2024,17.0,Veolia New Jersey,1,,False,,11037.0,188217.0,0.2147322642,Franklin Lakes,,,False
+07419,2022,15.0,Aqua New Jersey,1,887.0,True,16.910935738444195,9720.0,102862.0,0.225308642,Hamburg,,,False
+07419,2023,5.0,Aqua New Jersey,1,887.0,True,5.636978579481398,9720.0,102862.0,0.225308642,Hamburg,,,False
+07419,2024,6.0,Aqua New Jersey,1,887.0,True,6.764374295377678,9720.0,102862.0,0.225308642,Hamburg,,,False
+07424,2019,21.0,New Jersey American Water,1,3544.0,True,5.925507900677201,26893.0,97631.0,0.3318335625999999,Little Falls,,,False
+07424,2022,40.0,New Jersey American Water,1,3544.0,True,11.286681715575622,26893.0,97631.0,0.3318335625999999,Little Falls,,,False
+07424,2023,14.0,New Jersey American Water,1,3544.0,True,3.950338600451467,26893.0,97631.0,0.3318335625999999,Little Falls,,,False
+07424,2024,10.0,New Jersey American Water,1,3544.0,True,2.8216704288939054,26893.0,97631.0,0.3318335625999999,Little Falls,,,False
+07436,2019,0.0,New Jersey American Water,1,,False,,12770.0,152364.0,0.2105716523,Oakland,,,False
+07436,2022,0.0,New Jersey American Water,1,,False,,12770.0,152364.0,0.2105716523,Oakland,,,False
+07436,2023,0.0,New Jersey American Water,1,,False,,12770.0,152364.0,0.2105716523,Oakland,,,False
+07436,2024,0.0,New Jersey American Water,1,,False,,12770.0,152364.0,0.2105716523,Oakland,,,False
+07458,2023,1.0,Veolia New Jersey,1,,False,,11714.0,221325.0,0.2669455353,Saddle River,,,False
+07458,2024,2.0,Veolia New Jersey,1,,False,,11714.0,221325.0,0.2669455353,Saddle River,,,False
+07460,2022,3.0,Aqua New Jersey,1,71.0,True,42.25352112676056,3046.0,96961.0,0.1434668418,Stockholm,,,False
+07460,2023,1.0,Aqua New Jersey,1,71.0,True,14.084507042253522,3046.0,96961.0,0.1434668418,Stockholm,,,False
+07460,2024,1.0,Aqua New Jersey,1,71.0,True,14.084507042253522,3046.0,96961.0,0.1434668418,Stockholm,,,False
+07462,2022,6.0,Aqua New Jersey,1,206.0,True,29.12621359223301,6674.0,86736.0,0.150434522,Vernon,,,False
+07462,2023,6.0,Aqua New Jersey,1,206.0,True,29.12621359223301,6674.0,86736.0,0.150434522,Vernon,,,False
+07462,2024,7.0,Veolia New Jersey,2,,False,,6674.0,86736.0,0.150434522,Vernon,,,False
+07480,2024,1.0,Veolia New Jersey,1,,False,,14991.0,95521.0,0.1489560402999999,West Milford,,,False
+07601,2022,105.0,Veolia New Jersey,1,,False,,45723.0,73716.0,0.7568619732,Hackensack,,,False
+07601,2023,166.0,Veolia New Jersey,1,,False,,45723.0,73716.0,0.7568619732,Hackensack,,,False
+07601,2024,109.0,Veolia New Jersey,1,,False,,45723.0,73716.0,0.7568619732,Hackensack,,,False
+07603,2022,17.0,Veolia New Jersey,1,,False,,8830.0,104949.0,0.6787089468,Bogota,,,False
+07603,2023,33.0,Veolia New Jersey,1,,False,,8830.0,104949.0,0.6787089468,Bogota,,,False
+07603,2024,19.0,Veolia New Jersey,1,,False,,8830.0,104949.0,0.6787089468,Bogota,,,False
+07604,2022,23.0,Veolia New Jersey,1,,False,,12120.0,102639.0,0.4030528053,Hasbrouck Heights,,,False
+07604,2023,14.0,Veolia New Jersey,1,,False,,12120.0,102639.0,0.4030528053,Hasbrouck Heights,,,False
+07604,2024,12.0,Veolia New Jersey,1,,False,,12120.0,102639.0,0.4030528053,Hasbrouck Heights,,,False
+07605,2022,10.0,Veolia New Jersey,1,,False,,9283.0,102381.0,0.6798448777,Leonia,,,False
+07605,2023,13.0,Veolia New Jersey,1,,False,,9283.0,102381.0,0.6798448777,Leonia,,,False
+07605,2024,8.0,Veolia New Jersey,1,,False,,9283.0,102381.0,0.6798448777,Leonia,,,False
+07606,2022,6.0,Veolia New Jersey,1,,False,,2865.0,89911.0,0.6342059337,South Hackensack,,,False
+07606,2023,27.0,Veolia New Jersey,1,,False,,2865.0,89911.0,0.6342059337,South Hackensack,,,False
+07606,2024,4.0,Veolia New Jersey,1,,False,,2865.0,89911.0,0.6342059337,South Hackensack,,,False
+07607,2022,17.0,Veolia New Jersey,1,,False,,10049.0,99832.0,0.5072146482000001,Maywood,,,False
+07607,2023,31.0,Veolia New Jersey,1,,False,,10049.0,99832.0,0.5072146482000001,Maywood,,,False
+07607,2024,29.0,Veolia New Jersey,1,,False,,10049.0,99832.0,0.5072146482000001,Maywood,,,False
+07608,2023,1.0,Veolia New Jersey,1,,False,,92.0,0.0,0.7934782609,Teterboro,,,False
+07608,2024,1.0,Veolia New Jersey,1,,False,,92.0,0.0,0.7934782609,Teterboro,,,False
+07620,2022,7.0,Veolia New Jersey,1,,False,,1336.0,196875.0,0.4401197605,Alpine,,,False
+07620,2023,6.0,Veolia New Jersey,1,,False,,1336.0,196875.0,0.4401197605,Alpine,,,False
+07620,2024,2.0,Veolia New Jersey,1,,False,,1336.0,196875.0,0.4401197605,Alpine,,,False
+07621,2022,48.0,Veolia New Jersey,1,,False,,28282.0,111851.0,0.6373665229000001,Bergenfield,,,False
+07621,2023,57.0,Veolia New Jersey,1,,False,,28282.0,111851.0,0.6373665229000001,Bergenfield,,,False
+07621,2024,81.0,Veolia New Jersey,1,,False,,28282.0,111851.0,0.6373665229000001,Bergenfield,,,False
+07624,2022,13.0,Veolia New Jersey,1,,False,,8573.0,166125.0,0.5340020996,Closter,,,False
+07624,2023,15.0,Veolia New Jersey,1,,False,,8573.0,166125.0,0.5340020996,Closter,,,False
+07624,2024,8.0,Veolia New Jersey,1,,False,,8573.0,166125.0,0.5340020996,Closter,,,False
+07626,2022,7.0,Veolia New Jersey,1,,False,,9096.0,155515.0,0.4355760774,Cresskill,,,False
+07626,2023,13.0,Veolia New Jersey,1,,False,,9096.0,155515.0,0.4355760774,Cresskill,,,False
+07626,2024,16.0,Veolia New Jersey,1,,False,,9096.0,155515.0,0.4355760774,Cresskill,,,False
+07627,2022,3.0,Veolia New Jersey,1,,False,,4977.0,191346.0,0.3269037573,Demarest,,,False
+07627,2023,1.0,Veolia New Jersey,1,,False,,4977.0,191346.0,0.3269037573,Demarest,,,False
+07627,2024,2.0,Veolia New Jersey,1,,False,,4977.0,191346.0,0.3269037573,Demarest,,,False
+07628,2022,34.0,Veolia New Jersey,1,,False,,17965.0,108333.0,0.4620094628,Dumont,,,False
+07628,2023,45.0,Veolia New Jersey,1,,False,,17965.0,108333.0,0.4620094628,Dumont,,,False
+07628,2024,18.0,Veolia New Jersey,1,,False,,17965.0,108333.0,0.4620094628,Dumont,,,False
+07630,2022,7.0,Veolia New Jersey,1,,False,,7317.0,135396.0,0.2425857591999999,Emerson,,,False
+07630,2023,10.0,Veolia New Jersey,1,,False,,7317.0,135396.0,0.2425857591999999,Emerson,,,False
+07630,2024,5.0,Veolia New Jersey,1,,False,,7317.0,135396.0,0.2425857591999999,Emerson,,,False
+07631,2022,78.0,Veolia New Jersey,1,,False,,29129.0,91164.0,0.6723540115,Englewood,,,False
+07631,2023,132.0,Veolia New Jersey,1,,False,,29129.0,91164.0,0.6723540115,Englewood,,,False
+07631,2024,97.0,Veolia New Jersey,1,,False,,29129.0,91164.0,0.6723540115,Englewood,,,False
+07632,2022,4.0,Veolia New Jersey,1,,False,,5358.0,191875.0,0.5518850316999999,Englewood Cliffs,,,False
+07632,2023,13.0,Veolia New Jersey,1,,False,,5358.0,191875.0,0.5518850316999999,Englewood Cliffs,,,False
+07632,2024,4.0,Veolia New Jersey,1,,False,,5358.0,191875.0,0.5518850316999999,Englewood Cliffs,,,False
+07640,2022,3.0,Veolia New Jersey,1,,False,,4801.0,140958.0,0.2922307852999999,Harrington Park,,,False
+07640,2023,6.0,Veolia New Jersey,1,,False,,4801.0,140958.0,0.2922307852999999,Harrington Park,,,False
+07640,2024,4.0,Veolia New Jersey,1,,False,,4801.0,140958.0,0.2922307852999999,Harrington Park,,,False
+07641,2022,5.0,Veolia New Jersey,1,,False,,3341.0,196932.0,0.2675845555,Haworth,,,False
+07641,2023,11.0,Veolia New Jersey,1,,False,,3341.0,196932.0,0.2675845555,Haworth,,,False
+07641,2024,9.0,Veolia New Jersey,1,,False,,3341.0,196932.0,0.2675845555,Haworth,,,False
+07642,2022,5.0,Veolia New Jersey,1,,False,,10166.0,165964.0,0.2033248082,Hillsdale,,,False
+07642,2023,9.0,Veolia New Jersey,1,,False,,10166.0,165964.0,0.2033248082,Hillsdale,,,False
+07642,2024,9.0,Veolia New Jersey,1,,False,,10166.0,165964.0,0.2033248082,Hillsdale,,,False
+07643,2022,29.0,Veolia New Jersey,1,,False,,10973.0,77368.0,0.5889911601,Little Ferry,,,False
+07643,2023,30.0,Veolia New Jersey,1,,False,,10973.0,77368.0,0.5889911601,Little Ferry,,,False
+07643,2024,30.0,Veolia New Jersey,1,,False,,10973.0,77368.0,0.5889911601,Little Ferry,,,False
+07644,2023,1.0,Veolia New Jersey,1,,False,,25983.0,70821.0,0.6002771043,Lodi,,,False
+07645,2022,6.0,Veolia New Jersey,1,,False,,8413.0,163170.0,0.2853916558,Montvale,,,False
+07645,2023,10.0,Veolia New Jersey,1,,False,,8413.0,163170.0,0.2853916558,Montvale,,,False
+07645,2024,15.0,Veolia New Jersey,1,,False,,8413.0,163170.0,0.2853916558,Montvale,,,False
+07646,2022,21.0,Veolia New Jersey,1,,False,,16912.0,98992.0,0.4605014191,New Milford,,,False
+07646,2023,29.0,Veolia New Jersey,1,,False,,16912.0,98992.0,0.4605014191,New Milford,,,False
+07646,2024,17.0,Veolia New Jersey,1,,False,,16912.0,98992.0,0.4605014191,New Milford,,,False
+07647,2022,3.0,Veolia New Jersey,1,,False,,5394.0,112610.0,0.4809047089,Northvale,,,False
+07647,2023,13.0,Veolia New Jersey,1,,False,,5394.0,112610.0,0.4809047089,Northvale,,,False
+07647,2024,12.0,Veolia New Jersey,1,,False,,5394.0,112610.0,0.4809047089,Northvale,,,False
+07648,2022,4.0,Veolia New Jersey,1,,False,,5666.0,144390.0,0.3753971055,Norwood,,,False
+07648,2023,14.0,Veolia New Jersey,1,,False,,5666.0,144390.0,0.3753971055,Norwood,,,False
+07648,2024,10.0,Veolia New Jersey,1,,False,,5666.0,144390.0,0.3753971055,Norwood,,,False
+07649,2022,4.0,Veolia New Jersey,1,,False,,8236.0,174643.0,0.2269305488,Oradell,,,False
+07649,2023,4.0,Veolia New Jersey,1,,False,,8236.0,174643.0,0.2269305488,Oradell,,,False
+07649,2024,4.0,Veolia New Jersey,1,,False,,8236.0,174643.0,0.2269305488,Oradell,,,False
+07650,2022,26.0,Veolia New Jersey,1,,False,,20291.0,76297.0,0.8357892662,Palisades Park,,,False
+07650,2023,49.0,Veolia New Jersey,1,,False,,20291.0,76297.0,0.8357892662,Palisades Park,,,False
+07650,2024,40.0,Veolia New Jersey,1,,False,,20291.0,76297.0,0.8357892662,Palisades Park,,,False
+07652,2022,43.0,Veolia New Jersey,1,,False,,26650.0,130446.0,0.4198874296,Paramus,,,False
+07652,2023,45.0,Veolia New Jersey,1,,False,,26650.0,130446.0,0.4198874296,Paramus,,,False
+07652,2024,45.0,Veolia New Jersey,1,,False,,26650.0,130446.0,0.4198874296,Paramus,,,False
+07657,2022,19.0,Veolia New Jersey,1,,False,,11477.0,93045.0,0.6482530278,Ridgefield,,,False
+07657,2023,20.0,Veolia New Jersey,1,,False,,11477.0,93045.0,0.6482530278,Ridgefield,,,False
+07657,2024,17.0,Veolia New Jersey,1,,False,,11477.0,93045.0,0.6482530278,Ridgefield,,,False
+07660,2022,40.0,Veolia New Jersey,1,,False,,13202.0,86502.0,0.6434631117,Ridgefield Park,,,False
+07660,2023,63.0,Veolia New Jersey,1,,False,,13202.0,86502.0,0.6434631117,Ridgefield Park,,,False
+07660,2024,26.0,Veolia New Jersey,1,,False,,13202.0,86502.0,0.6434631117,Ridgefield Park,,,False
+07661,2022,4.0,Veolia New Jersey,1,,False,,12024.0,142214.0,0.4169993347,River Edge,,,False
+07661,2023,6.0,Veolia New Jersey,1,,False,,12024.0,142214.0,0.4169993347,River Edge,,,False
+07661,2024,7.0,Veolia New Jersey,1,,False,,12024.0,142214.0,0.4169993347,River Edge,,,False
+07662,2022,14.0,Veolia New Jersey,1,,False,,5805.0,101689.0,0.4587424633999999,Rochelle Park,,,False
+07662,2023,15.0,Veolia New Jersey,1,,False,,5805.0,101689.0,0.4587424633999999,Rochelle Park,,,False
+07662,2024,13.0,Veolia New Jersey,1,,False,,5805.0,101689.0,0.4587424633999999,Rochelle Park,,,False
+07666,2022,102.0,Veolia New Jersey,1,,False,,41427.0,130080.0,0.5870000000000001,Teaneck,,,False
+07666,2023,155.0,Veolia New Jersey,1,,False,,41427.0,130080.0,0.5870000000000001,Teaneck,,,False
+07666,2024,113.0,Veolia New Jersey,1,,False,,41427.0,130080.0,0.5870000000000001,Teaneck,,,False
+07670,2022,15.0,Veolia New Jersey,1,,False,,15307.0,179833.0,0.4505781669,Tenafly,,,False
+07670,2023,25.0,Veolia New Jersey,1,,False,,15307.0,179833.0,0.4505781669,Tenafly,,,False
+07670,2024,15.0,Veolia New Jersey,1,,False,,15307.0,179833.0,0.4505781669,Tenafly,,,False
+07675,2022,17.0,Veolia New Jersey,1,,False,,27025.0,155135.0,0.3386493987,Westwood,,,False
+07675,2023,39.0,Veolia New Jersey,1,,False,,27025.0,155135.0,0.3386493987,Westwood,,,False
+07675,2024,36.0,Veolia New Jersey,1,,False,,27025.0,155135.0,0.3386493987,Westwood,,,False
+07676,2022,8.0,Veolia New Jersey,1,,False,,9293.0,142682.0,0.182718175,Township of Washington,,,False
+07676,2023,13.0,Veolia New Jersey,2,,False,,9293.0,142682.0,0.182718175,Township of Washington,,,False
+07676,2024,15.0,Veolia New Jersey,2,,False,,9293.0,142682.0,0.182718175,Township of Washington,,,False
+07701,2019,14.0,New Jersey American Water,1,4659.0,True,3.00493668169135,25010.0,102191.0,0.2231507397,Red Bank,,,False
+07701,2022,21.0,New Jersey American Water,1,4659.0,True,4.507405022537025,25010.0,102191.0,0.2231507397,Red Bank,,,False
+07701,2023,22.0,New Jersey American Water,1,4659.0,True,4.7220433569435505,25010.0,102191.0,0.2231507397,Red Bank,,,False
+07701,2024,19.0,New Jersey American Water,1,4659.0,True,4.078128353723975,25010.0,102191.0,0.2231507397,Red Bank,,,False
+07702,2019,1.0,New Jersey American Water,1,1497.0,True,0.6680026720106881,4129.0,149792.0,0.1106805522,Shrewsbury,,,False
+07702,2022,9.0,New Jersey American Water,1,1497.0,True,6.012024048096192,4129.0,149792.0,0.1106805522,Shrewsbury,,,False
+07702,2023,3.0,New Jersey American Water,1,1497.0,True,2.004008016032064,4129.0,149792.0,0.1106805522,Shrewsbury,,,False
+07702,2024,2.0,New Jersey American Water,1,1497.0,True,1.3360053440213762,4129.0,149792.0,0.1106805522,Shrewsbury,,,False
+07703,2022,0.0,New Jersey American Water,1,5.0,True,0.0,0.0,0.0,1.0,Fort Monmouth,,,False
+07703,2023,0.0,New Jersey American Water,1,5.0,True,0.0,0.0,0.0,1.0,Fort Monmouth,,,False
+07703,2024,1.0,New Jersey American Water,1,5.0,True,200.0,0.0,0.0,1.0,Fort Monmouth,,,False
+07704,2019,6.0,New Jersey American Water,1,1928.0,True,3.112033195020747,6235.0,192500.0,0.06255012029,Fair Haven,,,False
+07704,2022,16.0,New Jersey American Water,1,1928.0,True,8.298755186721992,6235.0,192500.0,0.06255012029,Fair Haven,,,False
+07704,2023,11.0,New Jersey American Water,1,1928.0,True,5.7053941908713695,6235.0,192500.0,0.06255012029,Fair Haven,,,False
+07704,2024,7.0,New Jersey American Water,1,1928.0,True,3.6307053941908713,6235.0,192500.0,0.06255012029,Fair Haven,,,False
+07711,2019,7.0,New Jersey American Water,1,799.0,True,8.760951188986233,1749.0,94716.0,0.1600914808,Allenhurst,,,False
+07711,2022,8.0,New Jersey American Water,1,799.0,True,10.012515644555695,1749.0,94716.0,0.1600914808,Allenhurst,,,False
+07711,2023,15.0,New Jersey American Water,1,799.0,True,18.773466833541928,1749.0,94716.0,0.1600914808,Allenhurst,,,False
+07711,2024,13.0,New Jersey American Water,1,799.0,True,16.270337922403005,1749.0,94716.0,0.1600914808,Allenhurst,,,False
+07712,2019,119.0,New Jersey American Water,1,10121.0,True,11.757731449461515,39491.0,84328.0,0.4228305182999999,Asbury Park,,,False
+07712,2022,168.0,New Jersey American Water,1,10121.0,True,16.599150281592728,39491.0,84328.0,0.4228305182999999,Asbury Park,,,False
+07712,2023,169.0,New Jersey American Water,1,10121.0,True,16.69795474755459,39491.0,84328.0,0.4228305182999999,Asbury Park,,,False
+07712,2024,113.0,New Jersey American Water,1,10121.0,True,11.164904653690346,39491.0,84328.0,0.4228305182999999,Asbury Park,,,False
+07716,2019,1.0,New Jersey American Water,1,883.0,True,1.1325028312570782,8173.0,102227.0,0.09873975285,Atlantic Highlands,,,False
+07716,2022,12.0,New Jersey American Water,1,883.0,True,13.590033975084937,8173.0,102227.0,0.09873975285,Atlantic Highlands,,,False
+07716,2023,14.0,New Jersey American Water,1,883.0,True,15.855039637599093,8173.0,102227.0,0.09873975285,Atlantic Highlands,,,False
+07716,2024,10.0,New Jersey American Water,1,883.0,True,11.325028312570781,8173.0,102227.0,0.09873975285,Atlantic Highlands,,,False
+07717,2024,0.0,New Jersey American Water,1,,False,,1760.0,95781.0,0.1255681818,Avon By the Sea,,,False
+07718,2019,3.0,New Jersey American Water,1,2223.0,True,1.349527665317139,6901.0,152898.0,0.1340385451,Belford,,,False
+07718,2022,17.0,New Jersey American Water,1,2223.0,True,7.647323436797121,6901.0,152898.0,0.1340385451,Belford,,,False
+07718,2023,45.0,New Jersey American Water,1,2223.0,True,20.242914979757085,6901.0,152898.0,0.1340385451,Belford,,,False
+07718,2024,30.0,New Jersey American Water,1,2223.0,True,13.49527665317139,6901.0,152898.0,0.1340385451,Belford,,,False
+07719,2022,0.0,New Jersey American Water,1,,False,,21857.0,105707.0,0.1410989614,Belmar,,,False
+07719,2024,0.0,New Jersey American Water,1,,False,,21857.0,105707.0,0.1410989614,Belmar,,,False
+07720,2019,14.0,New Jersey American Water,1,1944.0,True,7.20164609053498,4170.0,90357.0,0.3158273381,Bradley Beach,,,False
+07720,2022,14.0,New Jersey American Water,1,1944.0,True,7.20164609053498,4170.0,90357.0,0.3158273381,Bradley Beach,,,False
+07720,2023,1.0,New Jersey American Water,1,1944.0,True,0.51440329218107,4170.0,90357.0,0.3158273381,Bradley Beach,,,False
+07720,2024,8.0,New Jersey American Water,1,1944.0,True,4.11522633744856,4170.0,90357.0,0.3158273381,Bradley Beach,,,False
+07721,2019,0.0,New Jersey American Water,1,1.0,True,0.0,3770.0,107009.0,0.6050397878,Cliffwood,,,False
+07722,2019,0.0,New Jersey American Water,1,9.0,True,0.0,10123.0,180208.0,0.1403734071,Colts Neck,,,False
+07722,2022,0.0,New Jersey American Water,1,9.0,True,0.0,10123.0,180208.0,0.1403734071,Colts Neck,,,False
+07722,2023,0.0,New Jersey American Water,1,9.0,True,0.0,10123.0,180208.0,0.1403734071,Colts Neck,,,False
+07722,2024,0.0,New Jersey American Water,1,9.0,True,0.0,10123.0,180208.0,0.1403734071,Colts Neck,,,False
+07723,2019,27.0,New Jersey American Water,1,1102.0,True,24.500907441016334,603.0,62292.0,0.2371475954,Deal,,,False
+07723,2022,23.0,New Jersey American Water,1,1102.0,True,20.87114337568058,603.0,62292.0,0.2371475954,Deal,,,False
+07723,2023,48.0,New Jersey American Water,1,1102.0,True,43.55716878402904,603.0,62292.0,0.2371475954,Deal,,,False
+07723,2024,26.0,New Jersey American Water,1,1102.0,True,23.593466424682397,603.0,62292.0,0.2371475954,Deal,,,False
+07724,2019,105.0,New Jersey American Water,1,6995.0,True,15.01072194424589,23332.0,90827.0,0.3260757757999999,Eatontown,,,False
+07724,2022,80.0,New Jersey American Water,1,6995.0,True,11.43674052894925,23332.0,90827.0,0.3260757757999999,Eatontown,,,False
+07724,2023,40.0,New Jersey American Water,1,6995.0,True,5.718370264474625,23332.0,90827.0,0.3260757757999999,Eatontown,,,False
+07724,2024,50.0,New Jersey American Water,1,6995.0,True,7.147962830593281,23332.0,90827.0,0.3260757757999999,Eatontown,,,False
+07727,2019,14.0,New Jersey American Water,1,545.0,True,25.68807339449541,6394.0,112042.0,0.2012824523,Farmingdale,,,False
+07727,2022,5.0,New Jersey American Water,1,545.0,True,9.174311926605505,6394.0,112042.0,0.2012824523,Farmingdale,,,False
+07727,2023,3.0,New Jersey American Water,1,545.0,True,5.504587155963303,6394.0,112042.0,0.2012824523,Farmingdale,,,False
+07727,2024,9.0,New Jersey American Water,1,545.0,True,16.513761467889907,6394.0,112042.0,0.2012824523,Farmingdale,,,False
+07728,2019,77.0,New Jersey American Water,1,2389.0,True,32.23105902051067,57245.0,101043.0,0.3356625033,Freehold,,,False
+07728,2022,13.0,New Jersey American Water,1,2389.0,True,5.441607367099205,57245.0,101043.0,0.3356625033,Freehold,,,False
+07728,2023,9.0,New Jersey American Water,1,2389.0,True,3.767266638760988,57245.0,101043.0,0.3356625033,Freehold,,,False
+07728,2024,6.0,New Jersey American Water,1,2389.0,True,2.5115110925073254,57245.0,101043.0,0.3356625033,Freehold,,,False
+07730,2019,104.0,New Jersey American Water,1,5135.0,True,20.253164556962027,16845.0,108990.0,0.181893737,Hazlet,,,False
+07730,2022,42.0,New Jersey American Water,1,5135.0,True,8.179162609542356,16845.0,108990.0,0.181893737,Hazlet,,,False
+07730,2023,55.0,New Jersey American Water,1,5135.0,True,10.71080817916261,16845.0,108990.0,0.181893737,Hazlet,,,False
+07730,2024,23.0,New Jersey American Water,1,5135.0,True,4.47906523855891,16845.0,108990.0,0.181893737,Hazlet,,,False
+07731,2019,512.0,New Jersey American Water,1,10032.0,True,51.036682615629985,39457.0,122239.0,0.2334440023,Howell,,,False
+07731,2022,182.0,Aqua New Jersey,2,10033.0,True,18.140137546097876,39457.0,122239.0,0.2334440023,Howell,,,False
+07731,2023,115.0,New Jersey American Water,2,10033.0,True,11.462174823083823,39457.0,122239.0,0.2334440023,Howell,,,False
+07731,2024,73.0,New Jersey American Water,2,10033.0,True,7.275989235522775,39457.0,122239.0,0.2334440023,Howell,,,False
+07732,2019,4.0,New Jersey American Water,1,1644.0,True,2.4330900243309004,4744.0,85268.0,0.1956155143,Highlands,,,False
+07732,2022,19.0,New Jersey American Water,1,1644.0,True,11.557177615571776,4744.0,85268.0,0.1956155143,Highlands,,,False
+07732,2023,36.0,New Jersey American Water,1,1644.0,True,21.8978102189781,4744.0,85268.0,0.1956155143,Highlands,,,False
+07732,2024,7.0,New Jersey American Water,1,1644.0,True,4.257907542579075,4744.0,85268.0,0.1956155143,Highlands,,,False
+07733,2019,43.0,New Jersey American Water,1,5794.0,True,7.4214704867103904,17135.0,156996.0,0.2825795156,Holmdel,,,False
+07733,2022,33.0,New Jersey American Water,1,5794.0,True,5.6955471177079735,17135.0,156996.0,0.2825795156,Holmdel,,,False
+07733,2023,55.0,New Jersey American Water,1,5794.0,True,9.49257852951329,17135.0,156996.0,0.2825795156,Holmdel,,,False
+07733,2024,17.0,New Jersey American Water,1,5794.0,True,2.9340697273041076,17135.0,156996.0,0.2825795156,Holmdel,,,False
+07734,2019,18.0,New Jersey American Water,1,1023.0,True,17.59530791788856,13323.0,79425.0,0.2554229528,Keansburg,,,False
+07734,2022,12.0,New Jersey American Water,1,1023.0,True,11.730205278592376,13323.0,79425.0,0.2554229528,Keansburg,,,False
+07734,2023,25.0,New Jersey American Water,1,1023.0,True,24.437927663734115,13323.0,79425.0,0.2554229528,Keansburg,,,False
+07734,2024,16.0,New Jersey American Water,1,1023.0,True,15.640273704789834,13323.0,79425.0,0.2554229528,Keansburg,,,False
+07735,2019,4.0,New Jersey American Water,1,2144.0,True,1.8656716417910448,19661.0,86411.0,0.2933726667,Keyport,,,False
+07735,2022,40.0,New Jersey American Water,1,2144.0,True,18.65671641791045,19661.0,86411.0,0.2933726667,Keyport,,,False
+07735,2023,74.0,New Jersey American Water,1,2144.0,True,34.514925373134325,19661.0,86411.0,0.2933726667,Keyport,,,False
+07735,2024,35.0,New Jersey American Water,1,2144.0,True,16.324626865671643,19661.0,86411.0,0.2933726667,Keyport,,,False
+07737,2019,3.0,New Jersey American Water,1,1488.0,True,2.0161290322580645,4353.0,122589.0,0.2221456467,Leonardo,,,False
+07737,2022,13.0,New Jersey American Water,1,1488.0,True,8.736559139784946,4353.0,122589.0,0.2221456467,Leonardo,,,False
+07737,2023,30.0,New Jersey American Water,1,1488.0,True,20.161290322580644,4353.0,122589.0,0.2221456467,Leonardo,,,False
+07737,2024,13.0,New Jersey American Water,1,1488.0,True,8.736559139784946,4353.0,122589.0,0.2221456467,Leonardo,,,False
+07738,2019,4.0,New Jersey American Water,2,2126.0,True,1.881467544684854,6812.0,172710.0,0.1169994128,Lincroft,,,False
+07738,2022,17.0,New Jersey American Water,2,2126.0,True,7.9962370649106305,6812.0,172710.0,0.1169994128,Lincroft,,,False
+07738,2023,12.0,New Jersey American Water,2,2126.0,True,5.644402634054563,6812.0,172710.0,0.1169994128,Lincroft,,,False
+07738,2024,9.0,New Jersey American Water,1,2125.0,True,4.235294117647059,6812.0,172710.0,0.1169994128,Lincroft,,,False
+07739,2019,7.0,New Jersey American Water,1,2336.0,True,2.9965753424657535,6103.0,212069.0,0.04129116828,Little Silver,,,False
+07739,2022,9.0,New Jersey American Water,1,2336.0,True,3.8527397260273974,6103.0,212069.0,0.04129116828,Little Silver,,,False
+07739,2023,11.0,New Jersey American Water,1,2336.0,True,4.708904109589041,6103.0,212069.0,0.04129116828,Little Silver,,,False
+07739,2024,9.0,New Jersey American Water,1,2336.0,True,3.8527397260273974,6103.0,212069.0,0.04129116828,Little Silver,,,False
+07740,2019,23.0,New Jersey American Water,1,7909.0,True,2.908079403211531,31863.0,65647.0,0.4302796347,Long Branch,,,False
+07740,2022,224.0,New Jersey American Water,1,7909.0,True,28.32216462258187,31863.0,65647.0,0.4302796347,Long Branch,,,False
+07740,2023,89.0,New Jersey American Water,1,7909.0,True,11.253002908079404,31863.0,65647.0,0.4302796347,Long Branch,,,False
+07740,2024,141.0,New Jersey American Water,1,7909.0,True,17.827791124035908,31863.0,65647.0,0.4302796347,Long Branch,,,False
+07746,2024,0.0,New Jersey American Water,1,,False,,18437.0,172765.0,0.2728751966,Marlboro,,,False
+07747,2019,3.0,New Jersey American Water,1,2785.0,True,1.0771992818671454,32462.0,115272.0,0.2848561395,Matawan,,,False
+07747,2022,20.0,New Jersey American Water,1,2785.0,True,7.1813285457809695,32462.0,115272.0,0.2848561395,Matawan,,,False
+07747,2023,29.0,New Jersey American Water,1,2785.0,True,10.412926391382406,32462.0,115272.0,0.2848561395,Matawan,,,False
+07747,2024,13.0,New Jersey American Water,1,2785.0,True,4.667863554757631,32462.0,115272.0,0.2848561395,Matawan,,,False
+07748,2019,18.0,New Jersey American Water,1,9840.0,True,1.829268292682927,28295.0,128740.0,0.134935501,Middletown,,,False
+07748,2022,80.0,New Jersey American Water,1,9840.0,True,8.130081300813009,28295.0,128740.0,0.134935501,Middletown,,,False
+07748,2023,132.0,New Jersey American Water,1,9840.0,True,13.414634146341463,28295.0,128740.0,0.134935501,Middletown,,,False
+07748,2024,36.0,New Jersey American Water,1,9840.0,True,3.658536585365854,28295.0,128740.0,0.134935501,Middletown,,,False
+07750,2019,1.0,New Jersey American Water,1,1027.0,True,0.9737098344693281,3197.0,131250.0,0.09008445418,Monmouth Beach,,,False
+07750,2022,10.0,New Jersey American Water,1,1027.0,True,9.737098344693282,3197.0,131250.0,0.09008445418,Monmouth Beach,,,False
+07750,2023,4.0,New Jersey American Water,1,1027.0,True,3.8948393378773125,3197.0,131250.0,0.09008445418,Monmouth Beach,,,False
+07750,2024,9.0,New Jersey American Water,1,1027.0,True,8.763388510223953,3197.0,131250.0,0.09008445418,Monmouth Beach,,,False
+07753,2019,144.0,New Jersey American Water,1,11037.0,True,13.047023647730361,37370.0,81268.0,0.4770404067,Neptune,,,False
+07753,2022,231.0,New Jersey American Water,1,11037.0,True,20.929600434900788,37370.0,81268.0,0.4770404067,Neptune,,,False
+07753,2023,121.0,New Jersey American Water,1,11037.0,True,10.963124037328985,37370.0,81268.0,0.4770404067,Neptune,,,False
+07753,2024,123.0,New Jersey American Water,1,11037.0,True,11.144332699103018,37370.0,81268.0,0.4770404067,Neptune,,,False
+07755,2019,32.0,New Jersey American Water,1,2364.0,True,13.536379018612521,6651.0,115436.0,0.2483837017,Oakhurst,,,False
+07755,2022,37.0,New Jersey American Water,1,2364.0,True,15.651438240270728,6651.0,115436.0,0.2483837017,Oakhurst,,,False
+07755,2023,10.0,New Jersey American Water,1,2364.0,True,4.230118443316413,6651.0,115436.0,0.2483837017,Oakhurst,,,False
+07755,2024,26.0,New Jersey American Water,1,2364.0,True,10.998307952622673,6651.0,115436.0,0.2483837017,Oakhurst,,,False
+07756,2019,8.0,New Jersey American Water,1,1780.0,True,4.49438202247191,3076.0,65078.0,0.1118335501,Ocean Grove,,,False
+07756,2022,9.0,New Jersey American Water,1,1780.0,True,5.056179775280899,3076.0,65078.0,0.1118335501,Ocean Grove,,,False
+07756,2023,1.0,New Jersey American Water,1,1780.0,True,0.5617977528089888,3076.0,65078.0,0.1118335501,Ocean Grove,,,False
+07756,2024,2.0,New Jersey American Water,1,1780.0,True,1.1235955056179776,3076.0,65078.0,0.1118335501,Ocean Grove,,,False
+07757,2019,11.0,New Jersey American Water,1,2149.0,True,5.118659841786878,6115.0,111400.0,0.1550286182,Oceanport,,,False
+07757,2022,13.0,New Jersey American Water,1,2149.0,True,6.04932526756631,6115.0,111400.0,0.1550286182,Oceanport,,,False
+07757,2023,7.0,New Jersey American Water,1,2149.0,True,3.257328990228013,6115.0,111400.0,0.1550286182,Oceanport,,,False
+07757,2024,12.0,New Jersey American Water,1,2149.0,True,5.583992554676594,6115.0,111400.0,0.1550286182,Oceanport,,,False
+07758,2019,0.0,New Jersey American Water,1,1670.0,True,0.0,4345.0,93125.0,0.1463751438,Port Monmouth,,,False
+07758,2022,14.0,New Jersey American Water,1,1670.0,True,8.383233532934131,4345.0,93125.0,0.1463751438,Port Monmouth,,,False
+07758,2023,49.0,New Jersey American Water,1,1670.0,True,29.34131736526946,4345.0,93125.0,0.1463751438,Port Monmouth,,,False
+07758,2024,7.0,New Jersey American Water,1,1670.0,True,4.191616766467066,4345.0,93125.0,0.1463751438,Port Monmouth,,,False
+07760,2019,23.0,New Jersey American Water,1,3479.0,True,6.611095142282265,9451.0,184336.0,0.06538990583,Rumson,,,False
+07760,2022,27.0,New Jersey American Water,1,3479.0,True,7.76085081920092,9451.0,184336.0,0.06538990583,Rumson,,,False
+07760,2023,10.0,New Jersey American Water,1,3479.0,True,2.874389192296637,9451.0,184336.0,0.06538990583,Rumson,,,False
+07760,2024,1.0,New Jersey American Water,1,3479.0,True,0.2874389192296637,9451.0,184336.0,0.06538990583,Rumson,,,False
+07764,2019,14.0,New Jersey American Water,1,2282.0,True,6.134969325153374,8470.0,107059.0,0.1808736718,West Long Branch,,,False
+07764,2022,36.0,New Jersey American Water,1,2282.0,True,15.775635407537248,8470.0,107059.0,0.1808736718,West Long Branch,,,False
+07764,2023,6.0,New Jersey American Water,1,2282.0,True,2.629272567922875,8470.0,107059.0,0.1808736718,West Long Branch,,,False
+07764,2024,39.0,New Jersey American Water,1,2282.0,True,17.090271691498685,8470.0,107059.0,0.1808736718,West Long Branch,,,False
+07801,2023,0.0,New Jersey American Water,1,1.0,True,0.0,26036.0,73919.0,0.7527654018,Dover,,,False
+07801,2024,0.0,New Jersey American Water,1,1.0,True,0.0,26036.0,73919.0,0.7527654018,Dover,,,False
+07821,2022,11.0,Aqua New Jersey,1,153.0,True,71.89542483660131,9277.0,122206.0,0.1459523553,Andover,,,False
+07821,2023,8.0,Aqua New Jersey,1,153.0,True,52.287581699346404,9277.0,122206.0,0.1459523553,Andover,,,False
+07821,2024,1.0,Aqua New Jersey,1,153.0,True,6.5359477124183005,9277.0,122206.0,0.1459523553,Andover,,,False
+07822,2019,0.0,New Jersey American Water,1,52.0,True,0.0,1084.0,95139.0,0.2001845018,Augusta,,,False
+07822,2022,1.0,New Jersey American Water,1,52.0,True,19.23076923076923,1084.0,95139.0,0.2001845018,Augusta,,,False
+07822,2023,0.0,New Jersey American Water,1,52.0,True,0.0,1084.0,95139.0,0.2001845018,Augusta,,,False
+07822,2024,0.0,New Jersey American Water,1,52.0,True,0.0,1084.0,95139.0,0.2001845018,Augusta,,,False
+07823,2019,48.0,New Jersey American Water,1,1162.0,True,41.30808950086058,7814.0,68500.0,0.09841310468,Belvidere,,,False
+07823,2022,4.0,New Jersey American Water,1,1162.0,True,3.442340791738382,7814.0,68500.0,0.09841310468,Belvidere,,,False
+07823,2023,29.0,New Jersey American Water,1,1162.0,True,24.95697074010327,7814.0,68500.0,0.09841310468,Belvidere,,,False
+07823,2024,14.0,New Jersey American Water,1,1162.0,True,12.048192771084338,7814.0,68500.0,0.09841310468,Belvidere,,,False
+07828,2019,11.0,New Jersey American Water,1,395.0,True,27.848101265822784,14602.0,84344.0,0.3584440487999999,Budd Lake,,,False
+07828,2022,2.0,New Jersey American Water,1,395.0,True,5.063291139240507,14602.0,84344.0,0.3584440487999999,Budd Lake,,,False
+07828,2023,6.0,New Jersey American Water,1,395.0,True,15.189873417721518,14602.0,84344.0,0.3584440487999999,Budd Lake,,,False
+07828,2024,0.0,New Jersey American Water,1,395.0,True,0.0,14602.0,84344.0,0.3584440487999999,Budd Lake,,,False
+07830,2019,0.0,New Jersey American Water,1,11.0,True,0.0,7389.0,156832.0,0.07890106916,Califon,,,False
+07830,2022,8.0,Aqua New Jersey,1,537.0,True,14.8975791433892,7389.0,156832.0,0.07890106916,Califon,,,False
+07830,2023,2.0,Aqua New Jersey,1,537.0,True,3.7243947858473,7389.0,156832.0,0.07890106916,Califon,,,False
+07830,2024,2.0,Aqua New Jersey,2,548.0,True,3.6496350364963503,7389.0,156832.0,0.07890106916,Califon,,,False
+07836,2019,0.0,New Jersey American Water,1,6.0,True,0.0,12262.0,132262.0,0.2389496004,Flanders,,,False
+07836,2022,2.0,Aqua New Jersey,2,,False,,12262.0,132262.0,0.2389496004,Flanders,,,False
+07836,2023,0.0,New Jersey American Water,2,,False,,12262.0,132262.0,0.2389496004,Flanders,,,False
+07836,2024,0.0,Aqua New Jersey,1,,False,,12262.0,132262.0,0.2389496004,Flanders,,,False
+07847,2019,7.0,New Jersey American Water,1,260.0,True,26.923076923076923,1940.0,69583.0,0.3,Kenvil,,,False
+07847,2022,0.0,New Jersey American Water,1,260.0,True,0.0,1940.0,69583.0,0.3,Kenvil,,,False
+07847,2023,1.0,New Jersey American Water,1,260.0,True,3.8461538461538463,1940.0,69583.0,0.3,Kenvil,,,False
+07847,2024,0.0,New Jersey American Water,1,260.0,True,0.0,1940.0,69583.0,0.3,Kenvil,,,False
+07849,2019,0.0,New Jersey American Water,1,,False,,8916.0,113542.0,0.2470838940999999,Lake Hopatcong,,,False
+07849,2022,0.0,New Jersey American Water,1,,False,,8916.0,113542.0,0.2470838940999999,Lake Hopatcong,,,False
+07849,2023,0.0,New Jersey American Water,1,,False,,8916.0,113542.0,0.2470838940999999,Lake Hopatcong,,,False
+07849,2024,0.0,New Jersey American Water,1,,False,,8916.0,113542.0,0.2470838940999999,Lake Hopatcong,,,False
+07850,2022,0.0,New Jersey American Water,1,,False,,7498.0,97241.0,0.3646305682,Landing,,,False
+07852,2019,1.0,New Jersey American Water,1,252.0,True,3.9682539682539684,3817.0,88302.0,0.2368352108999999,Ledgewood,,,False
+07852,2022,0.0,New Jersey American Water,1,252.0,True,0.0,3817.0,88302.0,0.2368352108999999,Ledgewood,,,False
+07852,2023,1.0,New Jersey American Water,1,252.0,True,3.9682539682539684,3817.0,88302.0,0.2368352108999999,Ledgewood,,,False
+07852,2024,0.0,New Jersey American Water,1,252.0,True,0.0,3817.0,88302.0,0.2368352108999999,Ledgewood,,,False
+07853,2023,0.0,New Jersey American Water,1,1.0,True,0.0,12821.0,175833.0,0.1712034943,Long Valley,,,False
+07860,2022,5.0,Aqua New Jersey,1,234.0,True,21.367521367521366,26151.0,98237.0,0.1510840886,Newton,,,False
+07860,2023,0.0,Aqua New Jersey,1,234.0,True,0.0,26151.0,98237.0,0.1510840886,Newton,,,False
+07860,2024,2.0,Aqua New Jersey,1,234.0,True,8.547008547008547,26151.0,98237.0,0.1510840886,Newton,,,False
+07863,2019,20.0,New Jersey American Water,1,316.0,True,63.29113924050633,3711.0,81375.0,0.1360819186,Oxford,,,False
+07863,2022,4.0,New Jersey American Water,1,316.0,True,12.658227848101266,3711.0,81375.0,0.1360819186,Oxford,,,False
+07863,2023,5.0,New Jersey American Water,1,316.0,True,15.822784810126583,3711.0,81375.0,0.1360819186,Oxford,,,False
+07863,2024,1.0,New Jersey American Water,1,316.0,True,3.1645569620253164,3711.0,81375.0,0.1360819186,Oxford,,,False
+07865,2019,4.0,New Jersey American Water,1,169.0,True,23.668639053254438,2942.0,126492.0,0.1679129844,Port Murray,,,False
+07865,2022,4.0,Aqua New Jersey,2,204.0,True,19.607843137254903,2942.0,126492.0,0.1679129844,Port Murray,,,False
+07865,2023,7.0,New Jersey American Water,2,204.0,True,34.31372549019608,2942.0,126492.0,0.1679129844,Port Murray,,,False
+07865,2024,0.0,Aqua New Jersey,2,204.0,True,0.0,2942.0,126492.0,0.1679129844,Port Murray,,,False
+07874,2024,0.0,Aqua New Jersey,1,1.0,True,0.0,8504.0,106618.0,0.1936735654,Stanhope,,,False
+07876,2019,35.0,New Jersey American Water,1,3198.0,True,10.944340212632895,9279.0,150840.0,0.1708158207,Succasunna,,,False
+07876,2022,2.0,New Jersey American Water,1,3198.0,True,0.6253908692933083,9279.0,150840.0,0.1708158207,Succasunna,,,False
+07876,2023,16.0,New Jersey American Water,1,3198.0,True,5.003126954346467,9279.0,150840.0,0.1708158207,Succasunna,,,False
+07876,2024,1.0,New Jersey American Water,1,3198.0,True,0.31269543464665417,9279.0,150840.0,0.1708158207,Succasunna,,,False
+07882,2019,184.0,New Jersey American Water,1,3926.0,True,46.867040244523686,14521.0,82616.0,0.1879347152,Washington,,,False
+07882,2022,41.0,New Jersey American Water,1,3926.0,True,10.443199184921038,14521.0,82616.0,0.1879347152,Washington,,,False
+07882,2023,150.0,New Jersey American Water,1,3926.0,True,38.20682628629648,14521.0,82616.0,0.1879347152,Washington,,,False
+07882,2024,103.0,New Jersey American Water,1,3926.0,True,26.235354049923586,14521.0,82616.0,0.1879347152,Washington,,,False
+07901,2019,8.0,New Jersey American Water,1,6183.0,True,1.2938702895034773,24218.0,148945.0,0.333058056,Summit,,,False
+07901,2022,46.0,New Jersey American Water,1,6183.0,True,7.439754164644994,24218.0,148945.0,0.333058056,Summit,,,False
+07901,2023,0.0,New Jersey American Water,1,6183.0,True,0.0,24218.0,148945.0,0.333058056,Summit,,,False
+07901,2024,28.0,New Jersey American Water,1,6183.0,True,4.52854601326217,24218.0,148945.0,0.333058056,Summit,,,False
+07920,2019,55.0,New Jersey American Water,1,7769.0,True,7.07941820054061,28451.0,160180.0,0.3326069382,Basking Ridge,,,False
+07920,2022,30.0,New Jersey American Water,1,7769.0,True,3.8615008366585144,28451.0,160180.0,0.3326069382,Basking Ridge,,,False
+07920,2023,14.0,New Jersey American Water,1,7769.0,True,1.8020337237739734,28451.0,160180.0,0.3326069382,Basking Ridge,,,False
+07920,2024,3.0,New Jersey American Water,1,7769.0,True,0.38615008366585146,28451.0,160180.0,0.3326069382,Basking Ridge,,,False
+07921,2019,19.0,New Jersey American Water,1,2630.0,True,7.224334600760456,7596.0,118382.0,0.2592153765,Bedminster,,,False
+07921,2022,24.0,New Jersey American Water,1,2630.0,True,9.125475285171103,7596.0,118382.0,0.2592153765,Bedminster,,,False
+07921,2023,1.0,New Jersey American Water,1,2630.0,True,0.38022813688212925,7596.0,118382.0,0.2592153765,Bedminster,,,False
+07921,2024,1.0,New Jersey American Water,1,2630.0,True,0.38022813688212925,7596.0,118382.0,0.2592153765,Bedminster,,,False
+07922,2019,11.0,New Jersey American Water,1,4138.0,True,2.6582890285161915,12059.0,171875.0,0.2549962683,Berkeley Heights,,,False
+07922,2022,20.0,New Jersey American Water,1,4138.0,True,4.833252779120348,12059.0,171875.0,0.2549962683,Berkeley Heights,,,False
+07922,2023,6.0,New Jersey American Water,1,4138.0,True,1.4499758337361044,12059.0,171875.0,0.2549962683,Berkeley Heights,,,False
+07922,2024,8.0,New Jersey American Water,1,4138.0,True,1.9333011116481391,12059.0,171875.0,0.2549962683,Berkeley Heights,,,False
+07924,2019,21.0,New Jersey American Water,1,1781.0,True,11.791128579449747,7754.0,200438.0,0.173845757,Bernardsville,,,False
+07924,2022,19.0,New Jersey American Water,1,1781.0,True,10.668163952835485,7754.0,200438.0,0.173845757,Bernardsville,,,False
+07924,2023,0.0,New Jersey American Water,1,1781.0,True,0.0,7754.0,200438.0,0.173845757,Bernardsville,,,False
+07924,2024,6.0,New Jersey American Water,1,1781.0,True,3.3688938798427848,7754.0,200438.0,0.173845757,Bernardsville,,,False
+07928,2019,7.0,New Jersey American Water,1,2808.0,True,2.492877492877493,19553.0,207059.0,0.2139825091,Chatham,,,False
+07928,2022,11.0,New Jersey American Water,1,2808.0,True,3.9173789173789175,19553.0,207059.0,0.2139825091,Chatham,,,False
+07928,2023,0.0,New Jersey American Water,1,2808.0,True,0.0,19553.0,207059.0,0.2139825091,Chatham,,,False
+07928,2024,0.0,New Jersey American Water,1,2808.0,True,0.0,19553.0,207059.0,0.2139825091,Chatham,,,False
+07930,2019,6.0,New Jersey American Water,1,464.0,True,12.931034482758621,8485.0,178731.0,0.1015910429999999,Chester,,,False
+07930,2022,3.0,New Jersey American Water,1,464.0,True,6.4655172413793105,8485.0,178731.0,0.1015910429999999,Chester,,,False
+07930,2023,4.0,New Jersey American Water,1,464.0,True,8.620689655172415,8485.0,178731.0,0.1015910429999999,Chester,,,False
+07930,2024,1.0,New Jersey American Water,1,464.0,True,2.1551724137931036,8485.0,178731.0,0.1015910429999999,Chester,,,False
+07931,2019,1.0,New Jersey American Water,1,307.0,True,3.257328990228013,3432.0,143140.0,0.2435897436,Far Hills,,,False
+07931,2022,1.0,New Jersey American Water,1,307.0,True,3.257328990228013,3432.0,143140.0,0.2435897436,Far Hills,,,False
+07931,2023,0.0,New Jersey American Water,1,307.0,True,0.0,3432.0,143140.0,0.2435897436,Far Hills,,,False
+07931,2024,1.0,New Jersey American Water,1,307.0,True,3.257328990228013,3432.0,143140.0,0.2435897436,Far Hills,,,False
+07932,2019,0.0,New Jersey American Water,1,264.0,True,0.0,10915.0,132154.0,0.2590929913,Florham Park,,,False
+07932,2022,0.0,New Jersey American Water,1,264.0,True,0.0,10915.0,132154.0,0.2590929913,Florham Park,,,False
+07932,2023,0.0,New Jersey American Water,1,264.0,True,0.0,10915.0,132154.0,0.2590929913,Florham Park,,,False
+07932,2024,0.0,New Jersey American Water,1,264.0,True,0.0,10915.0,132154.0,0.2590929913,Florham Park,,,False
+07933,2019,8.0,New Jersey American Water,1,1101.0,True,7.266121707538601,2648.0,147813.0,0.2394259818999999,Gillette,,,False
+07933,2022,6.0,New Jersey American Water,1,1101.0,True,5.449591280653951,2648.0,147813.0,0.2394259818999999,Gillette,,,False
+07933,2023,16.0,New Jersey American Water,1,1101.0,True,14.532243415077202,2648.0,147813.0,0.2394259818999999,Gillette,,,False
+07933,2024,1.0,New Jersey American Water,1,1101.0,True,0.9082652134423251,2648.0,147813.0,0.2394259818999999,Gillette,,,False
+07934,2019,2.0,New Jersey American Water,1,478.0,True,4.184100418410042,1357.0,162333.0,0.06705969049,Gladstone,,,False
+07934,2022,2.0,New Jersey American Water,1,478.0,True,4.184100418410042,1357.0,162333.0,0.06705969049,Gladstone,,,False
+07934,2023,0.0,New Jersey American Water,1,478.0,True,0.0,1357.0,162333.0,0.06705969049,Gladstone,,,False
+07934,2024,0.0,New Jersey American Water,1,478.0,True,0.0,1357.0,162333.0,0.06705969049,Gladstone,,,False
+07935,2019,1.0,New Jersey American Water,1,98.0,True,10.204081632653061,389.0,92212.0,0.0668380462699999,Green Village,,,False
+07935,2022,0.0,New Jersey American Water,1,98.0,True,0.0,389.0,92212.0,0.0668380462699999,Green Village,,,False
+07935,2023,0.0,New Jersey American Water,1,98.0,True,0.0,389.0,92212.0,0.0668380462699999,Green Village,,,False
+07935,2024,0.0,New Jersey American Water,1,98.0,True,0.0,389.0,92212.0,0.0668380462699999,Green Village,,,False
+07936,2019,0.0,New Jersey American Water,1,1.0,True,0.0,11128.0,129329.0,0.2428109274,East Hanover,,,False
+07936,2022,0.0,New Jersey American Water,1,1.0,True,0.0,11128.0,129329.0,0.2428109274,East Hanover,,,False
+07936,2023,0.0,New Jersey American Water,1,1.0,True,0.0,11128.0,129329.0,0.2428109274,East Hanover,,,False
+07936,2024,0.0,New Jersey American Water,1,1.0,True,0.0,11128.0,129329.0,0.2428109274,East Hanover,,,False
+07940,2019,0.0,New Jersey American Water,1,1.0,True,0.0,18054.0,152469.0,0.2560651379,Madison,,,False
+07940,2022,0.0,New Jersey American Water,1,1.0,True,0.0,18054.0,152469.0,0.2560651379,Madison,,,False
+07940,2023,0.0,New Jersey American Water,1,1.0,True,0.0,18054.0,152469.0,0.2560651379,Madison,,,False
+07940,2024,0.0,New Jersey American Water,1,1.0,True,0.0,18054.0,152469.0,0.2560651379,Madison,,,False
+07945,2019,17.0,New Jersey American Water,1,2303.0,True,7.381676074685193,9518.0,210846.0,0.1342719059,Mendham,,,False
+07945,2022,6.0,New Jersey American Water,1,2303.0,True,2.605297438124186,9518.0,210846.0,0.1342719059,Mendham,,,False
+07945,2023,2.0,New Jersey American Water,1,2303.0,True,0.8684324793747286,9518.0,210846.0,0.1342719059,Mendham,,,False
+07945,2024,4.0,New Jersey American Water,1,2303.0,True,1.7368649587494571,9518.0,210846.0,0.1342719059,Mendham,,,False
+07946,2019,2.0,New Jersey American Water,1,1046.0,True,1.9120458891013383,3090.0,198000.0,0.1546925566,Millington,,,False
+07946,2022,8.0,New Jersey American Water,1,1046.0,True,7.648183556405353,3090.0,198000.0,0.1546925566,Millington,,,False
+07946,2023,2.0,New Jersey American Water,1,1046.0,True,1.9120458891013383,3090.0,198000.0,0.1546925566,Millington,,,False
+07946,2024,3.0,New Jersey American Water,1,1046.0,True,2.8680688336520075,3090.0,198000.0,0.1546925566,Millington,,,False
+07950,2022,0.0,New Jersey American Water,1,,False,,21068.0,134726.0,0.3378108979999999,Morris Plains,,,False
+07950,2023,0.0,New Jersey American Water,1,,False,,21068.0,134726.0,0.3378108979999999,Morris Plains,,,False
+07960,2019,0.0,New Jersey American Water,1,9.0,True,0.0,46463.0,147949.0,0.3005832598,Morristown,,,False
+07960,2022,0.0,New Jersey American Water,1,9.0,True,0.0,46463.0,147949.0,0.3005832598,Morristown,,,False
+07960,2023,0.0,New Jersey American Water,1,9.0,True,0.0,46463.0,147949.0,0.3005832598,Morristown,,,False
+07960,2024,0.0,New Jersey American Water,1,9.0,True,0.0,46463.0,147949.0,0.3005832598,Morristown,,,False
+07974,2019,12.0,New Jersey American Water,1,3668.0,True,3.271537622682661,13038.0,157416.0,0.2620800736,New Providence,,,False
+07974,2022,21.0,New Jersey American Water,1,3668.0,True,5.7251908396946565,13038.0,157416.0,0.2620800736,New Providence,,,False
+07974,2023,1.0,New Jersey American Water,1,3668.0,True,0.27262813522355506,13038.0,157416.0,0.2620800736,New Providence,,,False
+07974,2024,5.0,New Jersey American Water,1,3668.0,True,1.3631406761177753,13038.0,157416.0,0.2620800736,New Providence,,,False
+07976,2019,0.0,New Jersey American Water,1,3.0,True,0.0,288.0,63125.0,0.0,New Vernon,,,False
+07976,2023,0.0,New Jersey American Water,1,3.0,True,0.0,288.0,63125.0,0.0,New Vernon,,,False
+07976,2024,0.0,New Jersey American Water,1,3.0,True,0.0,288.0,63125.0,0.0,New Vernon,,,False
+07977,2019,6.0,New Jersey American Water,1,274.0,True,21.8978102189781,885.0,0.0,0.4225988701,Peapack,,,False
+07977,2022,0.0,New Jersey American Water,1,274.0,True,0.0,885.0,0.0,0.4225988701,Peapack,,,False
+07977,2023,3.0,New Jersey American Water,1,274.0,True,10.94890510948905,885.0,0.0,0.4225988701,Peapack,,,False
+07977,2024,2.0,New Jersey American Water,1,274.0,True,7.299270072992701,885.0,0.0,0.4225988701,Peapack,,,False
+07980,2019,5.0,New Jersey American Water,1,671.0,True,7.451564828614009,2911.0,131125.0,0.1961525248999999,Stirling,,,False
+07980,2022,9.0,New Jersey American Water,1,671.0,True,13.412816691505217,2911.0,131125.0,0.1961525248999999,Stirling,,,False
+07980,2023,1.0,New Jersey American Water,1,671.0,True,1.4903129657228018,2911.0,131125.0,0.1961525248999999,Stirling,,,False
+07980,2024,0.0,New Jersey American Water,1,671.0,True,0.0,2911.0,131125.0,0.1961525248999999,Stirling,,,False
+08002,2019,234.0,New Jersey American Water,1,4303.0,True,54.38066465256797,23613.0,93651.0,0.3292254267,Cherry Hill,,,False
+08002,2022,34.0,New Jersey American Water,1,4303.0,True,7.901464094817569,23613.0,93651.0,0.3292254267,Cherry Hill,,,False
+08002,2023,71.0,New Jersey American Water,1,4303.0,True,16.500116198001393,23613.0,93651.0,0.3292254267,Cherry Hill,,,False
+08002,2024,80.0,New Jersey American Water,1,4303.0,True,18.591680223100163,23613.0,93651.0,0.3292254267,Cherry Hill,,,False
+08003,2019,224.0,New Jersey American Water,1,10386.0,True,21.567494704409782,31082.0,138472.0,0.2673251399999999,Cherry Hill,,,False
+08003,2022,52.0,New Jersey American Water,1,10386.0,True,5.006739842095128,31082.0,138472.0,0.2673251399999999,Cherry Hill,,,False
+08003,2023,36.0,New Jersey American Water,1,10386.0,True,3.466204506065858,31082.0,138472.0,0.2673251399999999,Cherry Hill,,,False
+08003,2024,30.0,New Jersey American Water,1,10386.0,True,2.8885037550548818,31082.0,138472.0,0.2673251399999999,Cherry Hill,,,False
+08004,2022,0.0,New Jersey American Water,1,,False,,10884.0,88476.0,0.1962513782,Atco,,,False
+08004,2024,0.0,New Jersey American Water,1,,False,,10884.0,88476.0,0.1962513782,Atco,,,False
+08007,2019,97.0,New Jersey American Water,1,1580.0,True,61.392405063291136,5521.0,85041.0,0.1505162108,Barrington,,,False
+08007,2022,17.0,New Jersey American Water,1,1580.0,True,10.759493670886076,5521.0,85041.0,0.1505162108,Barrington,,,False
+08007,2023,24.0,New Jersey American Water,1,1580.0,True,15.189873417721518,5521.0,85041.0,0.1505162108,Barrington,,,False
+08007,2024,21.0,New Jersey American Water,1,1580.0,True,13.291139240506329,5521.0,85041.0,0.1505162108,Barrington,,,False
+08008,2019,0.0,New Jersey American Water,1,1.0,True,0.0,6882.0,97247.0,0.0470793374,Beach Haven,,,False
+08008,2022,0.0,New Jersey American Water,1,1.0,True,0.0,6882.0,97247.0,0.0470793374,Beach Haven,,,False
+08008,2023,0.0,New Jersey American Water,1,1.0,True,0.0,6882.0,97247.0,0.0470793374,Beach Haven,,,False
+08008,2024,0.0,New Jersey American Water,1,1.0,True,0.0,6882.0,97247.0,0.0470793374,Beach Haven,,,False
+08010,2019,213.0,New Jersey American Water,1,2976.0,True,71.5725806451613,11042.0,75060.0,0.4692084767,Beverly,,,False
+08010,2022,46.0,New Jersey American Water,1,2976.0,True,15.456989247311828,11042.0,75060.0,0.4692084767,Beverly,,,False
+08010,2023,11.0,New Jersey American Water,1,2976.0,True,3.696236559139785,11042.0,75060.0,0.4692084767,Beverly,,,False
+08010,2024,129.0,New Jersey American Water,1,2976.0,True,43.346774193548384,11042.0,75060.0,0.4692084767,Beverly,,,False
+08012,2019,158.0,New Jersey American Water,1,1768.0,True,89.36651583710407,38901.0,84053.0,0.2515359502,Blackwood,,,False
+08012,2022,269.0,Aqua New Jersey,2,6555.0,True,41.0373760488177,38901.0,84053.0,0.2515359502,Blackwood,,,False
+08012,2023,116.0,Aqua New Jersey,2,6555.0,True,17.696414950419527,38901.0,84053.0,0.2515359502,Blackwood,,,False
+08012,2024,152.0,Aqua New Jersey,2,6555.0,True,23.18840579710145,38901.0,84053.0,0.2515359502,Blackwood,,,False
+08014,2019,18.0,New Jersey American Water,1,205.0,True,87.8048780487805,395.0,107097.0,0.0,Bridgeport,,,False
+08014,2022,3.0,New Jersey American Water,1,205.0,True,14.634146341463415,395.0,107097.0,0.0,Bridgeport,,,False
+08014,2023,7.0,New Jersey American Water,1,205.0,True,34.146341463414636,395.0,107097.0,0.0,Bridgeport,,,False
+08014,2024,2.0,New Jersey American Water,1,205.0,True,9.75609756097561,395.0,107097.0,0.0,Bridgeport,,,False
+08016,2019,4.0,New Jersey American Water,1,111.0,True,36.03603603603604,34433.0,86185.0,0.5445938489000001,Burlington,,,False
+08016,2022,2.0,New Jersey American Water,1,111.0,True,18.01801801801802,34433.0,86185.0,0.5445938489000001,Burlington,,,False
+08016,2023,0.0,New Jersey American Water,1,111.0,True,0.0,34433.0,86185.0,0.5445938489000001,Burlington,,,False
+08016,2024,7.0,New Jersey American Water,1,111.0,True,63.06306306306306,34433.0,86185.0,0.5445938489000001,Burlington,,,False
+08021,2019,386.0,New Jersey American Water,1,4918.0,True,78.48718991459943,48202.0,58116.0,0.5232148044,Clementon,,,False
+08021,2022,434.0,Aqua New Jersey,2,7480.0,True,58.02139037433155,48202.0,58116.0,0.5232148044,Clementon,,,False
+08021,2023,208.0,Aqua New Jersey,2,7480.0,True,27.807486631016044,48202.0,58116.0,0.5232148044,Clementon,,,False
+08021,2024,396.0,New Jersey American Water,2,7480.0,True,52.94117647058823,48202.0,58116.0,0.5232148044,Clementon,,,False
+08022,2019,83.0,New Jersey American Water,1,2455.0,True,33.80855397148676,9511.0,104323.0,0.2749448008,Columbus,,,False
+08022,2022,11.0,New Jersey American Water,1,2455.0,True,4.480651731160896,9511.0,104323.0,0.2749448008,Columbus,,,False
+08022,2023,3.0,New Jersey American Water,1,2455.0,True,1.2219959266802445,9511.0,104323.0,0.2749448008,Columbus,,,False
+08022,2024,27.0,New Jersey American Water,1,2455.0,True,10.9979633401222,9511.0,104323.0,0.2749448008,Columbus,,,False
+08026,2019,44.0,New Jersey American Water,1,778.0,True,56.55526992287918,2303.0,95000.0,0.2548849327,Gibbsboro,,,False
+08026,2022,6.0,New Jersey American Water,1,778.0,True,7.712082262210797,2303.0,95000.0,0.2548849327,Gibbsboro,,,False
+08026,2023,6.0,New Jersey American Water,1,778.0,True,7.712082262210797,2303.0,95000.0,0.2548849327,Gibbsboro,,,False
+08026,2024,12.0,New Jersey American Water,1,778.0,True,15.424164524421593,2303.0,95000.0,0.2548849327,Gibbsboro,,,False
+08028,2019,4.0,New Jersey American Water,1,56.0,True,71.42857142857143,21809.0,72701.0,0.3878215416,Glassboro,,,False
+08028,2022,1.0,New Jersey American Water,1,56.0,True,17.857142857142858,21809.0,72701.0,0.3878215416,Glassboro,,,False
+08028,2023,0.0,New Jersey American Water,1,56.0,True,0.0,21809.0,72701.0,0.3878215416,Glassboro,,,False
+08028,2024,6.0,New Jersey American Water,1,56.0,True,107.14285714285714,21809.0,72701.0,0.3878215416,Glassboro,,,False
+08029,2019,100.0,New Jersey American Water,1,1655.0,True,60.42296072507553,5561.0,78222.0,0.1924114368,Glendora,,,False
+08029,2022,29.0,New Jersey American Water,1,1655.0,True,17.522658610271904,5561.0,78222.0,0.1924114368,Glendora,,,False
+08029,2023,33.0,New Jersey American Water,1,1655.0,True,19.939577039274923,5561.0,78222.0,0.1924114368,Glendora,,,False
+08029,2024,48.0,New Jersey American Water,1,1655.0,True,29.003021148036254,5561.0,78222.0,0.1924114368,Glendora,,,False
+08030,2019,0.0,Middlesex Water,1,,False,,13222.0,58452.0,0.2908788383,Gloucester City,,,False
+08030,2022,0.0,Middlesex Water,1,,False,,13222.0,58452.0,0.2908788383,Gloucester City,,,False
+08030,2023,0.0,Middlesex Water,1,,False,,13222.0,58452.0,0.2908788383,Gloucester City,,,False
+08031,2019,87.0,New Jersey American Water,1,1432.0,True,60.754189944134076,11631.0,66667.0,0.2839824607,Bellmawr,,,False
+08031,2022,16.0,New Jersey American Water,1,1432.0,True,11.1731843575419,11631.0,66667.0,0.2839824607,Bellmawr,,,False
+08031,2023,19.0,New Jersey American Water,1,1432.0,True,13.268156424581006,11631.0,66667.0,0.2839824607,Bellmawr,,,False
+08031,2024,61.0,New Jersey American Water,1,1432.0,True,42.597765363128495,11631.0,66667.0,0.2839824607,Bellmawr,,,False
+08032,2022,0.0,Aqua New Jersey,1,2.0,True,0.0,397.0,108986.0,0.1486146096,Grenloch,,,False
+08033,2019,175.0,New Jersey American Water,1,4803.0,True,36.43556110764106,16565.0,132500.0,0.08674916994,Haddonfield,,,False
+08033,2022,11.0,New Jersey American Water,1,4803.0,True,2.2902352696231523,16565.0,132500.0,0.08674916994,Haddonfield,,,False
+08033,2023,19.0,New Jersey American Water,1,4803.0,True,3.955860920258172,16565.0,132500.0,0.08674916994,Haddonfield,,,False
+08033,2024,35.0,New Jersey American Water,1,4803.0,True,7.287112221528211,16565.0,132500.0,0.08674916994,Haddonfield,,,False
+08034,2019,222.0,New Jersey American Water,1,5340.0,True,41.57303370786517,19522.0,100173.0,0.2942833726,Cherry Hill,,,False
+08034,2022,39.0,New Jersey American Water,2,5342.0,True,7.3006364657431675,19522.0,100173.0,0.2942833726,Cherry Hill,,,False
+08034,2023,88.0,New Jersey American Water,2,5342.0,True,16.47323099962561,19522.0,100173.0,0.2942833726,Cherry Hill,,,False
+08034,2024,153.0,New Jersey American Water,2,5342.0,True,28.640958442530888,19522.0,100173.0,0.2942833726,Cherry Hill,,,False
+08035,2019,78.0,New Jersey American Water,1,2539.0,True,30.72075620322962,7615.0,102670.0,0.07170059094,Haddon Heights,,,False
+08035,2022,13.0,New Jersey American Water,1,2539.0,True,5.120126033871603,7615.0,102670.0,0.07170059094,Haddon Heights,,,False
+08035,2023,10.0,New Jersey American Water,1,2539.0,True,3.9385584875935407,7615.0,102670.0,0.07170059094,Haddon Heights,,,False
+08035,2024,38.0,New Jersey American Water,1,2539.0,True,14.966522252855455,7615.0,102670.0,0.07170059094,Haddon Heights,,,False
+08036,2019,109.0,New Jersey American Water,1,2222.0,True,49.054905490549054,6026.0,114519.0,0.1956521739,Hainesport,,,False
+08036,2022,21.0,New Jersey American Water,1,2222.0,True,9.450945094509452,6026.0,114519.0,0.1956521739,Hainesport,,,False
+08036,2023,17.0,New Jersey American Water,1,2222.0,True,7.650765076507651,6026.0,114519.0,0.1956521739,Hainesport,,,False
+08036,2024,31.0,New Jersey American Water,1,2222.0,True,13.951395139513952,6026.0,114519.0,0.1956521739,Hainesport,,,False
+08037,2023,0.0,New Jersey American Water,1,,False,,23729.0,76977.0,0.2475030553,Hammonton,,,False
+08041,2024,0.0,New Jersey American Water,1,,False,,930.0,147781.0,0.07741935484,Jobstown,,,False
+08043,2019,381.0,New Jersey American Water,1,7800.0,True,48.84615384615385,30864.0,102606.0,0.3933061172,Voorhees,,,False
+08043,2022,73.0,New Jersey American Water,1,7800.0,True,9.35897435897436,30864.0,102606.0,0.3933061172,Voorhees,,,False
+08043,2023,47.0,New Jersey American Water,1,7800.0,True,6.0256410256410255,30864.0,102606.0,0.3933061172,Voorhees,,,False
+08043,2024,98.0,New Jersey American Water,1,7800.0,True,12.564102564102564,30864.0,102606.0,0.3933061172,Voorhees,,,False
+08045,2019,157.0,New Jersey American Water,1,936.0,True,167.73504273504273,2966.0,70156.0,0.9420094403,Lawnside,,,False
+08045,2022,33.0,New Jersey American Water,1,936.0,True,35.256410256410255,2966.0,70156.0,0.9420094403,Lawnside,,,False
+08045,2023,45.0,New Jersey American Water,1,936.0,True,48.07692307692308,2966.0,70156.0,0.9420094403,Lawnside,,,False
+08045,2024,60.0,New Jersey American Water,1,936.0,True,64.1025641025641,2966.0,70156.0,0.9420094403,Lawnside,,,False
+08048,2019,237.0,New Jersey American Water,1,3277.0,True,72.32224595666769,12752.0,108924.0,0.3516311166999999,Lumberton,,,False
+08048,2022,33.0,New Jersey American Water,1,3277.0,True,10.07018614586512,12752.0,108924.0,0.3516311166999999,Lumberton,,,False
+08048,2023,25.0,New Jersey American Water,1,3277.0,True,7.628928898382667,12752.0,108924.0,0.3516311166999999,Lumberton,,,False
+08048,2024,61.0,New Jersey American Water,1,3277.0,True,18.61458651205371,12752.0,108924.0,0.3516311166999999,Lumberton,,,False
+08049,2019,139.0,New Jersey American Water,1,1785.0,True,77.87114845938375,5238.0,74306.0,0.3696067201,Magnolia,,,False
+08049,2022,24.0,New Jersey American Water,1,1785.0,True,13.445378151260504,5238.0,74306.0,0.3696067201,Magnolia,,,False
+08049,2023,29.0,New Jersey American Water,1,1785.0,True,16.246498599439775,5238.0,74306.0,0.3696067201,Magnolia,,,False
+08049,2024,72.0,New Jersey American Water,1,1785.0,True,40.33613445378151,5238.0,74306.0,0.3696067201,Magnolia,,,False
+08052,2019,1.0,New Jersey American Water,1,35.0,True,28.571428571428573,19818.0,66529.0,0.3482187909999999,Maple Shade,,,False
+08052,2022,1.0,New Jersey American Water,1,35.0,True,28.571428571428573,19818.0,66529.0,0.3482187909999999,Maple Shade,,,False
+08052,2023,2.0,New Jersey American Water,1,35.0,True,57.142857142857146,19818.0,66529.0,0.3482187909999999,Maple Shade,,,False
+08052,2024,1.0,New Jersey American Water,1,35.0,True,28.571428571428573,19818.0,66529.0,0.3482187909999999,Maple Shade,,,False
+08053,2023,0.0,New Jersey American Water,1,,False,,46775.0,107154.0,0.1864671299,Marlton,,,False
+08053,2024,0.0,New Jersey American Water,1,,False,,46775.0,107154.0,0.1864671299,Marlton,,,False
+08054,2019,27.0,New Jersey American Water,1,470.0,True,57.4468085106383,44473.0,103399.0,0.3195197086,Mount Laurel,,,False
+08054,2022,5.0,New Jersey American Water,1,470.0,True,10.638297872340425,44473.0,103399.0,0.3195197086,Mount Laurel,,,False
+08054,2023,10.0,New Jersey American Water,1,470.0,True,21.27659574468085,44473.0,103399.0,0.3195197086,Mount Laurel,,,False
+08054,2024,12.0,New Jersey American Water,1,470.0,True,25.53191489361702,44473.0,103399.0,0.3195197086,Mount Laurel,,,False
+08055,2019,0.0,New Jersey American Water,1,,False,,28519.0,140441.0,0.09583084961,Medford,,,False
+08055,2022,0.0,New Jersey American Water,1,,False,,28519.0,140441.0,0.09583084961,Medford,,,False
+08056,2019,0.0,New Jersey American Water,1,10.0,True,0.0,5656.0,130037.0,0.1573550212,Mickleton,,,False
+08056,2022,0.0,New Jersey American Water,1,10.0,True,0.0,5656.0,130037.0,0.1573550212,Mickleton,,,False
+08056,2023,0.0,New Jersey American Water,1,10.0,True,0.0,5656.0,130037.0,0.1573550212,Mickleton,,,False
+08056,2024,0.0,New Jersey American Water,1,10.0,True,0.0,5656.0,130037.0,0.1573550212,Mickleton,,,False
+08057,2019,7.0,New Jersey American Water,1,269.0,True,26.022304832713754,20892.0,146465.0,0.2089316485,Moorestown,,,False
+08057,2022,1.0,New Jersey American Water,1,269.0,True,3.717472118959108,20892.0,146465.0,0.2089316485,Moorestown,,,False
+08057,2023,0.0,New Jersey American Water,1,269.0,True,0.0,20892.0,146465.0,0.2089316485,Moorestown,,,False
+08057,2024,2.0,New Jersey American Water,1,269.0,True,7.434944237918216,20892.0,146465.0,0.2089316485,Moorestown,,,False
+08059,2019,97.0,New Jersey American Water,1,2071.0,True,46.83727667793337,5667.0,83089.0,0.1356979001,Mount Ephraim,,,False
+08059,2022,43.0,New Jersey American Water,1,2071.0,True,20.762916465475616,5667.0,83089.0,0.1356979001,Mount Ephraim,,,False
+08059,2023,39.0,New Jersey American Water,1,2071.0,True,18.83148237566393,5667.0,83089.0,0.1356979001,Mount Ephraim,,,False
+08059,2024,60.0,New Jersey American Water,1,2071.0,True,28.971511347175277,5667.0,83089.0,0.1356979001,Mount Ephraim,,,False
+08060,2019,526.0,New Jersey American Water,1,7397.0,True,71.10990942273895,25333.0,97341.0,0.5005329017,Mount Holly,,,False
+08060,2022,89.0,New Jersey American Water,1,7397.0,True,12.031904826280925,25333.0,97341.0,0.5005329017,Mount Holly,,,False
+08060,2023,69.0,New Jersey American Water,1,7397.0,True,9.328105988914425,25333.0,97341.0,0.5005329017,Mount Holly,,,False
+08060,2024,183.0,New Jersey American Water,1,7397.0,True,24.739759361903474,25333.0,97341.0,0.5005329017,Mount Holly,,,False
+08062,2019,108.0,New Jersey American Water,1,2994.0,True,36.07214428857716,17669.0,144468.0,0.128699983,Mullica Hill,,,False
+08062,2022,10.0,New Jersey American Water,1,2994.0,True,3.3400133600534403,17669.0,144468.0,0.128699983,Mullica Hill,,,False
+08062,2023,28.0,New Jersey American Water,1,2994.0,True,9.352037408149632,17669.0,144468.0,0.128699983,Mullica Hill,,,False
+08062,2024,28.0,New Jersey American Water,1,2994.0,True,9.352037408149632,17669.0,144468.0,0.128699983,Mullica Hill,,,False
+08063,2019,0.0,Middlesex Water,1,,False,,3111.0,75365.0,0.09450337512,National Park,,,False
+08063,2022,2.0,Middlesex Water,1,,False,,3111.0,75365.0,0.09450337512,National Park,,,False
+08063,2023,0.0,Middlesex Water,1,,False,,3111.0,75365.0,0.09450337512,National Park,,,False
+08065,2019,142.0,New Jersey American Water,1,2293.0,True,61.92760575665068,7429.0,78736.0,0.3135011442,Palmyra,,,False
+08065,2022,23.0,New Jersey American Water,1,2293.0,True,10.03052769297863,7429.0,78736.0,0.3135011442,Palmyra,,,False
+08065,2023,39.0,New Jersey American Water,1,2293.0,True,17.0082860880942,7429.0,78736.0,0.3135011442,Palmyra,,,False
+08065,2024,54.0,New Jersey American Water,1,2293.0,True,23.549934583515046,7429.0,78736.0,0.3135011442,Palmyra,,,False
+08067,2019,25.0,New Jersey American Water,1,351.0,True,71.22507122507122,1675.0,106875.0,0.1295522388,Pedricktown,,,False
+08067,2022,5.0,New Jersey American Water,1,351.0,True,14.245014245014245,1675.0,106875.0,0.1295522388,Pedricktown,,,False
+08067,2023,17.0,New Jersey American Water,1,351.0,True,48.433048433048434,1675.0,106875.0,0.1295522388,Pedricktown,,,False
+08067,2024,10.0,New Jersey American Water,1,351.0,True,28.49002849002849,1675.0,106875.0,0.1295522388,Pedricktown,,,False
+08068,2019,113.0,New Jersey American Water,1,379.0,True,298.15303430079155,7135.0,67260.0,0.4661527679999999,Pemberton,,,False
+08068,2022,3.0,New Jersey American Water,1,379.0,True,7.915567282321899,7135.0,67260.0,0.4661527679999999,Pemberton,,,False
+08068,2023,1.0,New Jersey American Water,1,379.0,True,2.638522427440633,7135.0,67260.0,0.4661527679999999,Pemberton,,,False
+08068,2024,4.0,New Jersey American Water,1,379.0,True,10.554089709762533,7135.0,67260.0,0.4661527679999999,Pemberton,,,False
+08069,2019,531.0,New Jersey American Water,1,3581.0,True,148.28260262496508,13412.0,53225.0,0.5100656129,Penns Grove,,,False
+08069,2022,150.0,New Jersey American Water,1,3581.0,True,41.887740854509914,13412.0,53225.0,0.5100656129,Penns Grove,,,False
+08069,2023,216.0,New Jersey American Water,1,3581.0,True,60.31834683049428,13412.0,53225.0,0.5100656129,Penns Grove,,,False
+08069,2024,334.0,New Jersey American Water,1,3581.0,True,93.27003630270875,13412.0,53225.0,0.5100656129,Penns Grove,,,False
+08071,2023,0.0,New Jersey American Water,1,,False,,9363.0,84643.0,0.08213179536,Pitman,,,False
+08071,2024,0.0,New Jersey American Water,1,,False,,9363.0,84643.0,0.08213179536,Pitman,,,False
+08075,2019,553.0,New Jersey American Water,1,9610.0,True,57.54422476586889,30186.0,80801.0,0.2705558868,Riverside,,,False
+08075,2022,107.0,New Jersey American Water,1,9610.0,True,11.13423517169615,30186.0,80801.0,0.2705558868,Riverside,,,False
+08075,2023,113.0,New Jersey American Water,1,9610.0,True,11.758584807492195,30186.0,80801.0,0.2705558868,Riverside,,,False
+08075,2024,224.0,New Jersey American Water,1,9610.0,True,23.30905306971904,30186.0,80801.0,0.2705558868,Riverside,,,False
+08077,2019,295.0,New Jersey American Water,1,7148.0,True,41.27028539451595,20298.0,120174.0,0.1424278254,Riverton,,,False
+08077,2022,68.0,New Jersey American Water,1,7148.0,True,9.513150531617235,20298.0,120174.0,0.1424278254,Riverton,,,False
+08077,2023,69.0,New Jersey American Water,1,7148.0,True,9.653049804141018,20298.0,120174.0,0.1424278254,Riverton,,,False
+08077,2024,121.0,New Jersey American Water,1,7148.0,True,16.92781197537773,20298.0,120174.0,0.1424278254,Riverton,,,False
+08078,2019,225.0,New Jersey American Water,1,2587.0,True,86.97332817935833,8020.0,77148.0,0.2592269327,Runnemede,,,False
+08078,2022,53.0,New Jersey American Water,1,2587.0,True,20.48705063780441,8020.0,77148.0,0.2592269327,Runnemede,,,False
+08078,2023,26.0,New Jersey American Water,1,2587.0,True,10.050251256281408,8020.0,77148.0,0.2592269327,Runnemede,,,False
+08078,2024,96.0,New Jersey American Water,1,2587.0,True,37.108620023192884,8020.0,77148.0,0.2592269327,Runnemede,,,False
+08079,2024,0.0,New Jersey American Water,1,,False,,10200.0,44763.0,0.4635294118,Salem,,,False
+08080,2019,0.0,New Jersey American Water,1,,False,,39122.0,116348.0,0.152088339,Sewell,,,False
+08080,2022,0.0,New Jersey American Water,1,,False,,39122.0,116348.0,0.152088339,Sewell,,,False
+08080,2023,0.0,New Jersey American Water,1,,False,,39122.0,116348.0,0.152088339,Sewell,,,False
+08080,2024,0.0,New Jersey American Water,1,,False,,39122.0,116348.0,0.152088339,Sewell,,,False
+08081,2022,667.0,Aqua New Jersey,1,8044.0,True,82.9189457981104,51518.0,90318.0,0.510442952,Sicklerville,,,False
+08081,2023,444.0,Aqua New Jersey,1,8044.0,True,55.196419691695674,51518.0,90318.0,0.510442952,Sicklerville,,,False
+08081,2024,286.0,Aqua New Jersey,1,8044.0,True,35.55445052212829,51518.0,90318.0,0.510442952,Sicklerville,,,False
+08083,2019,146.0,New Jersey American Water,1,3135.0,True,46.57097288676236,9704.0,82799.0,0.3176009893,Somerdale,,,False
+08083,2022,23.0,New Jersey American Water,1,3135.0,True,7.33652312599681,9704.0,82799.0,0.3176009893,Somerdale,,,False
+08083,2023,30.0,New Jersey American Water,1,3135.0,True,9.569377990430622,9704.0,82799.0,0.3176009893,Somerdale,,,False
+08083,2024,92.0,New Jersey American Water,1,3135.0,True,29.34609250398724,9704.0,82799.0,0.3176009893,Somerdale,,,False
+08084,2019,104.0,New Jersey American Water,1,2080.0,True,50.0,6967.0,81310.0,0.2454428018,Stratford,,,False
+08084,2022,20.0,New Jersey American Water,1,2080.0,True,9.615384615384615,6967.0,81310.0,0.2454428018,Stratford,,,False
+08084,2023,18.0,New Jersey American Water,1,2080.0,True,8.653846153846153,6967.0,81310.0,0.2454428018,Stratford,,,False
+08084,2024,56.0,New Jersey American Water,1,2080.0,True,26.923076923076923,6967.0,81310.0,0.2454428018,Stratford,,,False
+08085,2019,96.0,New Jersey American Water,1,1819.0,True,52.77625068719077,21142.0,117556.0,0.253854886,Swedesboro,,,False
+08085,2022,101.0,Aqua New Jersey,2,7319.0,True,13.799699412488044,21142.0,117556.0,0.253854886,Swedesboro,,,False
+08085,2023,131.0,Aqua New Jersey,2,7319.0,True,17.89862003005875,21142.0,117556.0,0.253854886,Swedesboro,,,False
+08085,2024,82.0,Aqua New Jersey,2,7319.0,True,11.203716354693265,21142.0,117556.0,0.253854886,Swedesboro,,,False
+08086,2023,0.0,New Jersey American Water,1,1.0,True,0.0,7697.0,76875.0,0.215798363,Thorofare,,,False
+08086,2024,0.0,New Jersey American Water,1,1.0,True,0.0,7697.0,76875.0,0.215798363,Thorofare,,,False
+08087,2023,0.0,New Jersey American Water,1,2.0,True,0.0,24951.0,75686.0,0.1238026532,Tuckerton,,,False
+08087,2024,0.0,New Jersey American Water,1,2.0,True,0.0,24951.0,75686.0,0.1238026532,Tuckerton,,,False
+08088,2019,9.0,New Jersey American Water,1,207.0,True,43.47826086956522,24203.0,94271.0,0.08602239392,Vincentown,,,False
+08088,2022,7.0,New Jersey American Water,1,207.0,True,33.81642512077295,24203.0,94271.0,0.08602239392,Vincentown,,,False
+08088,2023,0.0,New Jersey American Water,1,207.0,True,0.0,24203.0,94271.0,0.08602239392,Vincentown,,,False
+08088,2024,5.0,New Jersey American Water,1,207.0,True,24.154589371980677,24203.0,94271.0,0.08602239392,Vincentown,,,False
+08091,2024,0.0,New Jersey American Water,1,1.0,True,0.0,5823.0,84564.0,0.3027648978,West Berlin,,,False
+08096,2022,0.0,New Jersey American Water,1,,False,,36038.0,82046.0,0.3213274876999999,Woodbury,,,False
+08096,2023,0.0,New Jersey American Water,1,,False,,36038.0,82046.0,0.3213274876999999,Woodbury,,,False
+08096,2024,0.0,New Jersey American Water,1,,False,,36038.0,82046.0,0.3213274876999999,Woodbury,,,False
+08102,2019,0.0,New Jersey American Water,1,,False,,8603.0,27442.0,0.8900383587,Camden,,,False
+08102,2022,0.0,New Jersey American Water,1,,False,,8603.0,27442.0,0.8900383587,Camden,,,False
+08102,2023,1.0,New Jersey American Water,1,,False,,8603.0,27442.0,0.8900383587,Camden,,,False
+08102,2024,1.0,New Jersey American Water,1,,False,,8603.0,27442.0,0.8900383587,Camden,,,False
+08105,2019,1313.0,New Jersey American Water,1,5870.0,True,223.67972742759795,26968.0,36274.0,0.9742287155,Camden,,,False
+08105,2022,401.0,New Jersey American Water,1,5870.0,True,68.31345826235093,26968.0,36274.0,0.9742287155,Camden,,,False
+08105,2023,332.0,New Jersey American Water,1,5870.0,True,56.558773424190804,26968.0,36274.0,0.9742287155,Camden,,,False
+08105,2024,581.0,New Jersey American Water,1,5870.0,True,98.9778534923339,26968.0,36274.0,0.9742287155,Camden,,,False
+08106,2019,136.0,New Jersey American Water,1,2917.0,True,46.623243057936236,9727.0,88429.0,0.07597409273,Audubon,,,False
+08106,2022,19.0,New Jersey American Water,1,2917.0,True,6.513541309564621,9727.0,88429.0,0.07597409273,Audubon,,,False
+08106,2023,36.0,New Jersey American Water,1,2917.0,True,12.34144669180665,9727.0,88429.0,0.07597409273,Audubon,,,False
+08106,2024,49.0,New Jersey American Water,1,2917.0,True,16.798080219403495,9727.0,88429.0,0.07597409273,Audubon,,,False
+08107,2019,77.0,New Jersey American Water,1,1360.0,True,56.61764705882353,13798.0,64370.0,0.390346427,Oaklyn,,,False
+08107,2022,16.0,New Jersey American Water,1,1360.0,True,11.764705882352942,13798.0,64370.0,0.390346427,Oaklyn,,,False
+08107,2023,17.0,New Jersey American Water,1,1360.0,True,12.5,13798.0,64370.0,0.390346427,Oaklyn,,,False
+08107,2024,20.0,New Jersey American Water,1,1360.0,True,14.705882352941176,13798.0,64370.0,0.390346427,Oaklyn,,,False
+08108,2019,0.0,New Jersey American Water,1,,False,,18827.0,99087.0,0.133000478,Collingswood,,,False
+08108,2022,0.0,New Jersey American Water,1,,False,,18827.0,99087.0,0.133000478,Collingswood,,,False
+08108,2023,0.0,New Jersey American Water,1,,False,,18827.0,99087.0,0.133000478,Collingswood,,,False
+08108,2024,0.0,New Jersey American Water,1,,False,,18827.0,99087.0,0.133000478,Collingswood,,,False
+08109,2019,27.0,New Jersey American Water,1,157.0,True,171.97452229299364,23273.0,73111.0,0.6099772268,Merchantville,,,False
+08109,2022,3.0,New Jersey American Water,1,157.0,True,19.10828025477707,23273.0,73111.0,0.6099772268,Merchantville,,,False
+08109,2023,10.0,New Jersey American Water,1,157.0,True,63.69426751592356,23273.0,73111.0,0.6099772268,Merchantville,,,False
+08109,2024,18.0,New Jersey American Water,1,157.0,True,114.64968152866243,23273.0,73111.0,0.6099772268,Merchantville,,,False
+08110,2019,184.0,New Jersey American Water,1,1098.0,True,167.57741347905284,19658.0,73575.0,0.8606674128,Pennsauken,,,False
+08110,2022,55.0,New Jersey American Water,1,1098.0,True,50.09107468123862,19658.0,73575.0,0.8606674128,Pennsauken,,,False
+08110,2023,95.0,New Jersey American Water,1,1098.0,True,86.52094717668488,19658.0,73575.0,0.8606674128,Pennsauken,,,False
+08110,2024,112.0,New Jersey American Water,1,1098.0,True,102.00364298724955,19658.0,73575.0,0.8606674128,Pennsauken,,,False
+08201,2019,184.0,New Jersey American Water,1,2953.0,True,62.309515746698274,10220.0,60536.0,0.4,Absecon,,,False
+08201,2022,35.0,New Jersey American Water,1,2953.0,True,11.852353538774128,10220.0,60536.0,0.4,Absecon,,,False
+08201,2023,23.0,New Jersey American Water,1,2953.0,True,7.788689468337284,10220.0,60536.0,0.4,Absecon,,,False
+08201,2024,41.0,New Jersey American Water,1,2953.0,True,13.88418557399255,10220.0,60536.0,0.4,Absecon,,,False
+08205,2019,1136.0,New Jersey American Water,1,10408.0,True,109.1468101460415,28051.0,74556.0,0.3967772985,Absecon,,,False
+08205,2022,261.0,New Jersey American Water,1,10408.0,True,25.07686395080707,28051.0,74556.0,0.3967772985,Absecon,,,False
+08205,2023,218.0,New Jersey American Water,1,10408.0,True,20.94542659492698,28051.0,74556.0,0.3967772985,Absecon,,,False
+08205,2024,290.0,New Jersey American Water,1,10408.0,True,27.863182167563412,28051.0,74556.0,0.3967772985,Absecon,,,False
+08210,2019,126.0,New Jersey American Water,1,2137.0,True,58.96116050538138,17385.0,83859.0,0.1853897037999999,Cape May Court House,,,False
+08210,2022,34.0,New Jersey American Water,1,2137.0,True,15.910154422087038,17385.0,83859.0,0.1853897037999999,Cape May Court House,,,False
+08210,2023,14.0,New Jersey American Water,1,2137.0,True,6.551240056153486,17385.0,83859.0,0.1853897037999999,Cape May Court House,,,False
+08210,2024,40.0,New Jersey American Water,1,2137.0,True,18.717828731867105,17385.0,83859.0,0.1853897037999999,Cape May Court House,,,False
+08215,2019,8.0,New Jersey American Water,1,1499.0,True,5.33689126084056,14230.0,71213.0,0.3106816585,Egg Harbor City,,,False
+08215,2022,8.0,New Jersey American Water,1,1499.0,True,5.33689126084056,14230.0,71213.0,0.3106816585,Egg Harbor City,,,False
+08215,2023,2.0,New Jersey American Water,1,1499.0,True,1.33422281521014,14230.0,71213.0,0.3106816585,Egg Harbor City,,,False
+08215,2024,30.0,New Jersey American Water,1,1499.0,True,20.0133422281521,14230.0,71213.0,0.3106816585,Egg Harbor City,,,False
+08221,2019,43.0,New Jersey American Water,1,2584.0,True,16.640866873065015,6957.0,118795.0,0.1864309328999999,Linwood,,,False
+08221,2022,32.0,New Jersey American Water,1,2584.0,True,12.38390092879257,6957.0,118795.0,0.1864309328999999,Linwood,,,False
+08221,2023,21.0,New Jersey American Water,1,2584.0,True,8.126934984520124,6957.0,118795.0,0.1864309328999999,Linwood,,,False
+08221,2024,33.0,New Jersey American Water,1,2584.0,True,12.770897832817337,6957.0,118795.0,0.1864309328999999,Linwood,,,False
+08223,2019,12.0,New Jersey American Water,1,572.0,True,20.97902097902098,4207.0,80750.0,0.04944140718,Marmora,,,False
+08223,2022,0.0,New Jersey American Water,1,572.0,True,0.0,4207.0,80750.0,0.04944140718,Marmora,,,False
+08223,2023,0.0,New Jersey American Water,1,572.0,True,0.0,4207.0,80750.0,0.04944140718,Marmora,,,False
+08223,2024,6.0,New Jersey American Water,1,572.0,True,10.48951048951049,4207.0,80750.0,0.04944140718,Marmora,,,False
+08225,2019,56.0,New Jersey American Water,1,3080.0,True,18.181818181818183,8419.0,88232.0,0.2419527259999999,Northfield,,,False
+08225,2022,62.0,New Jersey American Water,1,3080.0,True,20.12987012987013,8419.0,88232.0,0.2419527259999999,Northfield,,,False
+08225,2023,14.0,New Jersey American Water,1,3080.0,True,4.545454545454546,8419.0,88232.0,0.2419527259999999,Northfield,,,False
+08225,2024,31.0,New Jersey American Water,1,3080.0,True,10.064935064935066,8419.0,88232.0,0.2419527259999999,Northfield,,,False
+08226,2019,229.0,New Jersey American Water,1,15860.0,True,14.438839848675915,11211.0,88414.0,0.1441441440999999,Ocean City,,,False
+08226,2022,95.0,New Jersey American Water,1,15860.0,True,5.989911727616645,11211.0,88414.0,0.1441441440999999,Ocean City,,,False
+08226,2023,89.0,New Jersey American Water,1,15860.0,True,5.611601513240857,11211.0,88414.0,0.1441441440999999,Ocean City,,,False
+08226,2024,103.0,New Jersey American Water,1,15860.0,True,6.494325346784363,11211.0,88414.0,0.1441441440999999,Ocean City,,,False
+08230,2019,0.0,New Jersey American Water,1,229.0,True,0.0,5718.0,98393.0,0.07117873382,Ocean View,,,False
+08230,2022,4.0,New Jersey American Water,1,229.0,True,17.467248908296945,5718.0,98393.0,0.07117873382,Ocean View,,,False
+08230,2023,0.0,New Jersey American Water,1,229.0,True,0.0,5718.0,98393.0,0.07117873382,Ocean View,,,False
+08230,2024,1.0,New Jersey American Water,1,229.0,True,4.366812227074236,5718.0,98393.0,0.07117873382,Ocean View,,,False
+08232,2019,704.0,New Jersey American Water,1,4980.0,True,141.36546184738955,20107.0,44147.0,0.9183368976,Pleasantville,,,False
+08232,2022,257.0,New Jersey American Water,1,4980.0,True,51.606425702811244,20107.0,44147.0,0.9183368976,Pleasantville,,,False
+08232,2023,142.0,New Jersey American Water,1,4980.0,True,28.514056224899598,20107.0,44147.0,0.9183368976,Pleasantville,,,False
+08232,2024,151.0,New Jersey American Water,1,4980.0,True,30.32128514056225,20107.0,44147.0,0.9183368976,Pleasantville,,,False
+08234,2019,576.0,New Jersey American Water,1,11661.0,True,49.395420632878825,45998.0,86783.0,0.4084742815,Egg Harbor Township,,,False
+08234,2022,205.0,New Jersey American Water,1,11661.0,True,17.579967412743333,45998.0,86783.0,0.4084742815,Egg Harbor Township,,,False
+08234,2023,175.0,New Jersey American Water,1,11661.0,True,15.007289254780893,45998.0,86783.0,0.4084742815,Egg Harbor Township,,,False
+08234,2024,287.0,New Jersey American Water,1,11661.0,True,24.611954377840664,45998.0,86783.0,0.4084742815,Egg Harbor Township,,,False
+08242,2019,3.0,New Jersey American Water,1,40.0,True,75.0,3812.0,80893.0,0.3853620147,Rio Grande,,,False
+08242,2022,1.0,New Jersey American Water,1,40.0,True,25.0,3812.0,80893.0,0.3853620147,Rio Grande,,,False
+08242,2023,0.0,New Jersey American Water,1,40.0,True,0.0,3812.0,80893.0,0.3853620147,Rio Grande,,,False
+08242,2024,2.0,New Jersey American Water,1,40.0,True,50.0,3812.0,80893.0,0.3853620147,Rio Grande,,,False
+08244,2019,120.0,New Jersey American Water,1,3525.0,True,34.04255319148936,10620.0,61781.0,0.356873823,Somers Point,,,False
+08244,2022,42.0,New Jersey American Water,1,3525.0,True,11.914893617021276,10620.0,61781.0,0.356873823,Somers Point,,,False
+08244,2023,32.0,New Jersey American Water,1,3525.0,True,9.078014184397164,10620.0,61781.0,0.356873823,Somers Point,,,False
+08244,2024,28.0,New Jersey American Water,1,3525.0,True,7.943262411347518,10620.0,61781.0,0.356873823,Somers Point,,,False
+08248,2019,0.0,New Jersey American Water,1,389.0,True,0.0,161.0,117917.0,0.0,Strathmere,,,False
+08248,2022,1.0,New Jersey American Water,1,389.0,True,2.570694087403599,161.0,117917.0,0.0,Strathmere,,,False
+08248,2023,0.0,New Jersey American Water,1,389.0,True,0.0,161.0,117917.0,0.0,Strathmere,,,False
+08248,2024,2.0,New Jersey American Water,1,389.0,True,5.141388174807198,161.0,117917.0,0.0,Strathmere,,,False
+08312,2024,0.0,New Jersey American Water,1,,False,,8310.0,89973.0,0.4001203369,Clayton,,,False
+08321,2019,0.0,Middlesex Water,1,3655.0,True,0.0,118.0,34444.0,0.0,Fortescue,,,False
+08321,2022,0.0,Middlesex Water,1,3655.0,True,0.0,118.0,34444.0,0.0,Fortescue,,,False
+08321,2023,0.0,Middlesex Water,1,3655.0,True,0.0,118.0,34444.0,0.0,Fortescue,,,False
+08321,2024,0.0,Middlesex Water,1,3655.0,True,0.0,118.0,34444.0,0.0,Fortescue,,,False
+08360,2022,0.0,New Jersey American Water,1,,False,,44080.0,57905.0,0.6514972777,Vineland,,,False
+08360,2023,0.0,New Jersey American Water,1,,False,,44080.0,57905.0,0.6514972777,Vineland,,,False
+08403,2022,5.0,Aqua New Jersey,1,93.0,True,53.763440860215056,906.0,105385.0,0.06622516556,Longport,,,False
+08403,2023,1.0,Aqua New Jersey,1,93.0,True,10.75268817204301,906.0,105385.0,0.06622516556,Longport,,,False
+08403,2024,0.0,Aqua New Jersey,1,93.0,True,0.0,906.0,105385.0,0.06622516556,Longport,,,False
+08501,2019,0.0,New Jersey American Water,1,,False,,6395.0,125172.0,0.2046911649999999,Allentown,,,False
+08501,2022,1.0,Aqua New Jersey,2,,False,,6395.0,125172.0,0.2046911649999999,Allentown,,,False
+08501,2023,12.0,Aqua New Jersey,2,,False,,6395.0,125172.0,0.2046911649999999,Allentown,,,False
+08501,2024,2.0,Aqua New Jersey,2,,False,,6395.0,125172.0,0.2046911649999999,Allentown,,,False
+08502,2019,49.0,New Jersey American Water,1,3161.0,True,15.501423600126543,11467.0,206250.0,0.5493154269,Belle Mead,,,False
+08502,2022,16.0,New Jersey American Water,1,3161.0,True,5.06168933881683,11467.0,206250.0,0.5493154269,Belle Mead,,,False
+08502,2023,19.0,New Jersey American Water,1,3161.0,True,6.010756089844985,11467.0,206250.0,0.5493154269,Belle Mead,,,False
+08502,2024,13.0,New Jersey American Water,1,3161.0,True,4.112622587788675,11467.0,206250.0,0.5493154269,Belle Mead,,,False
+08512,2019,26.0,New Jersey American Water,1,1138.0,True,22.847100175746924,11540.0,120898.0,0.4974003466,Cranbury,,,False
+08512,2022,6.0,New Jersey American Water,1,1138.0,True,5.272407732864675,11540.0,120898.0,0.4974003466,Cranbury,,,False
+08512,2023,6.0,New Jersey American Water,1,1138.0,True,5.272407732864675,11540.0,120898.0,0.4974003466,Cranbury,,,False
+08512,2024,12.0,New Jersey American Water,1,1138.0,True,10.54481546572935,11540.0,120898.0,0.4974003466,Cranbury,,,False
+08514,2019,3.0,New Jersey American Water,1,244.0,True,12.295081967213115,5151.0,107344.0,0.105416424,Cream Ridge,,,False
+08514,2022,1.0,New Jersey American Water,1,244.0,True,4.098360655737705,5151.0,107344.0,0.105416424,Cream Ridge,,,False
+08514,2023,0.0,New Jersey American Water,1,244.0,True,0.0,5151.0,107344.0,0.105416424,Cream Ridge,,,False
+08514,2024,1.0,New Jersey American Water,1,244.0,True,4.098360655737705,5151.0,107344.0,0.105416424,Cream Ridge,,,False
+08515,2022,32.0,Aqua New Jersey,1,1509.0,True,21.206096752816435,7884.0,160781.0,0.4498985287,Chesterfield,,,False
+08515,2023,19.0,Aqua New Jersey,1,1509.0,True,12.591119946984758,7884.0,160781.0,0.4498985287,Chesterfield,,,False
+08515,2024,12.0,Aqua New Jersey,1,1509.0,True,7.952286282306163,7884.0,160781.0,0.4498985287,Chesterfield,,,False
+08520,2022,0.0,Aqua New Jersey,1,116.0,True,0.0,29799.0,107241.0,0.5203194738,Hightstown,,,False
+08520,2023,2.0,Aqua New Jersey,1,116.0,True,17.24137931034483,29799.0,107241.0,0.5203194738,Hightstown,,,False
+08520,2024,0.0,Aqua New Jersey,1,116.0,True,0.0,29799.0,107241.0,0.5203194738,Hightstown,,,False
+08525,2019,0.0,New Jersey American Water,1,25.0,True,0.0,4611.0,133649.0,0.1316417262999999,Hopewell,,,False
+08525,2022,0.0,New Jersey American Water,1,25.0,True,0.0,4611.0,133649.0,0.1316417262999999,Hopewell,,,False
+08525,2023,0.0,New Jersey American Water,1,25.0,True,0.0,4611.0,133649.0,0.1316417262999999,Hopewell,,,False
+08525,2024,0.0,New Jersey American Water,1,25.0,True,0.0,4611.0,133649.0,0.1316417262999999,Hopewell,,,False
+08527,2024,0.0,New Jersey American Water,1,,False,,57357.0,100885.0,0.2172533431,Jackson,,,False
+08528,2019,4.0,New Jersey American Water,1,261.0,True,15.32567049808429,219.0,53935.0,0.0,Kingston,,,False
+08528,2022,3.0,New Jersey American Water,1,261.0,True,11.494252873563218,219.0,53935.0,0.0,Kingston,,,False
+08528,2023,3.0,New Jersey American Water,1,261.0,True,11.494252873563218,219.0,53935.0,0.0,Kingston,,,False
+08528,2024,1.0,New Jersey American Water,1,261.0,True,3.8314176245210727,219.0,53935.0,0.0,Kingston,,,False
+08533,2019,24.0,New Jersey American Water,1,656.0,True,36.58536585365854,6384.0,97488.0,0.1417606516,New Egypt,,,False
+08533,2022,10.0,New Jersey American Water,1,656.0,True,15.24390243902439,6384.0,97488.0,0.1417606516,New Egypt,,,False
+08533,2023,5.0,New Jersey American Water,1,656.0,True,7.621951219512195,6384.0,97488.0,0.1417606516,New Egypt,,,False
+08533,2024,14.0,New Jersey American Water,1,656.0,True,21.341463414634145,6384.0,97488.0,0.1417606516,New Egypt,,,False
+08534,2022,0.0,New Jersey American Water,1,13.0,True,0.0,12672.0,145747.0,0.2388731061,Pennington,,,False
+08534,2024,0.0,New Jersey American Water,1,13.0,True,0.0,12672.0,145747.0,0.2388731061,Pennington,,,False
+08536,2019,113.0,New Jersey American Water,1,3648.0,True,30.975877192982455,20523.0,115685.0,0.7369780247,Plainsboro,,,False
+08536,2022,24.0,New Jersey American Water,1,3648.0,True,6.578947368421052,20523.0,115685.0,0.7369780247,Plainsboro,,,False
+08536,2023,36.0,New Jersey American Water,1,3648.0,True,9.868421052631579,20523.0,115685.0,0.7369780247,Plainsboro,,,False
+08536,2024,34.0,New Jersey American Water,1,3648.0,True,9.320175438596491,20523.0,115685.0,0.7369780247,Plainsboro,,,False
+08540,2019,127.0,New Jersey American Water,1,7975.0,True,15.924764890282132,48700.0,163074.0,0.4500821355,Princeton,,,False
+08540,2022,37.0,New Jersey American Water,1,7975.0,True,4.639498432601881,48700.0,163074.0,0.4500821355,Princeton,,,False
+08540,2023,58.0,New Jersey American Water,1,7975.0,True,7.2727272727272725,48700.0,163074.0,0.4500821355,Princeton,,,False
+08540,2024,48.0,New Jersey American Water,1,7975.0,True,6.018808777429467,48700.0,163074.0,0.4500821355,Princeton,,,False
+08542,2019,8.0,New Jersey American Water,1,309.0,True,25.889967637540455,2542.0,121103.0,0.512195122,Princeton,,,False
+08542,2022,5.0,New Jersey American Water,1,309.0,True,16.181229773462782,2542.0,121103.0,0.512195122,Princeton,,,False
+08542,2023,2.0,New Jersey American Water,1,309.0,True,6.472491909385114,2542.0,121103.0,0.512195122,Princeton,,,False
+08542,2024,2.0,New Jersey American Water,1,309.0,True,6.472491909385114,2542.0,121103.0,0.512195122,Princeton,,,False
+08544,2019,0.0,New Jersey American Water,1,,False,,4251.0,0.0,0.4431898377,Princeton,,,False
+08544,2022,0.0,New Jersey American Water,1,,False,,4251.0,0.0,0.4431898377,Princeton,,,False
+08544,2023,0.0,New Jersey American Water,1,,False,,4251.0,0.0,0.4431898377,Princeton,,,False
+08544,2024,0.0,New Jersey American Water,1,,False,,4251.0,0.0,0.4431898377,Princeton,,,False
+08550,2019,86.0,New Jersey American Water,1,7179.0,True,11.979384315364257,20546.0,196066.0,0.5801129173999999,Princeton Junction,,,False
+08550,2022,19.0,New Jersey American Water,1,7179.0,True,2.6466081626967544,20546.0,196066.0,0.5801129173999999,Princeton Junction,,,False
+08550,2023,29.0,New Jersey American Water,1,7179.0,True,4.039559827273994,20546.0,196066.0,0.5801129173999999,Princeton Junction,,,False
+08550,2024,28.0,New Jersey American Water,2,,False,,20546.0,196066.0,0.5801129173999999,Princeton Junction,,,False
+08551,2024,0.0,New Jersey American Water,1,,False,,5567.0,140539.0,0.1507095384,Ringoes,,,False
+08553,2019,1.0,New Jersey American Water,1,14.0,True,71.42857142857143,752.0,126389.0,0.1289893617,Rocky Hill,,,False
+08553,2022,0.0,New Jersey American Water,1,14.0,True,0.0,752.0,126389.0,0.1289893617,Rocky Hill,,,False
+08558,2019,10.0,New Jersey American Water,1,1090.0,True,9.174311926605505,7810.0,213966.0,0.4052496799,Skillman,,,False
+08558,2022,1.0,New Jersey American Water,1,1090.0,True,0.9174311926605505,7810.0,213966.0,0.4052496799,Skillman,,,False
+08558,2023,3.0,New Jersey American Water,1,1090.0,True,2.7522935779816513,7810.0,213966.0,0.4052496799,Skillman,,,False
+08558,2024,11.0,New Jersey American Water,1,1090.0,True,10.091743119266056,7810.0,213966.0,0.4052496799,Skillman,,,False
+08561,2019,0.0,New Jersey American Water,1,,False,,433.0,0.0,0.2979214780999999,Windsor,,,False
+08561,2022,2.0,Aqua New Jersey,1,142.0,True,14.084507042253522,433.0,0.0,0.2979214780999999,Windsor,,,False
+08561,2023,2.0,Aqua New Jersey,1,142.0,True,14.084507042253522,433.0,0.0,0.2979214780999999,Windsor,,,False
+08561,2024,0.0,Aqua New Jersey,1,142.0,True,0.0,433.0,0.0,0.2979214780999999,Windsor,,,False
+08562,2022,51.0,Aqua New Jersey,1,851.0,True,59.929494712103406,3924.0,81597.0,0.2849133537,Wrightstown,,,False
+08562,2023,51.0,Aqua New Jersey,1,851.0,True,59.929494712103406,3924.0,81597.0,0.2849133537,Wrightstown,,,False
+08562,2024,29.0,Aqua New Jersey,1,851.0,True,34.07755581668625,3924.0,81597.0,0.2849133537,Wrightstown,,,False
+08611,2023,0.0,Aqua New Jersey,1,1.0,True,0.0,31283.0,42962.0,0.8142761244000001,Trenton,,,False
+08611,2024,0.0,Aqua New Jersey,1,1.0,True,0.0,31283.0,42962.0,0.8142761244000001,Trenton,,,False
+08619,2022,36.0,Aqua New Jersey,1,1802.0,True,19.97780244173141,23438.0,89825.0,0.3037375203,Trenton,,,False
+08619,2023,12.0,Aqua New Jersey,1,1802.0,True,6.659267480577136,23438.0,89825.0,0.3037375203,Trenton,,,False
+08619,2024,13.0,Aqua New Jersey,1,1802.0,True,7.214206437291898,23438.0,89825.0,0.3037375203,Trenton,,,False
+08620,2022,5.0,Aqua New Jersey,1,279.0,True,17.921146953405017,12587.0,99394.0,0.2243584651,Trenton,,,False
+08620,2023,0.0,Aqua New Jersey,1,279.0,True,0.0,12587.0,99394.0,0.2243584651,Trenton,,,False
+08620,2024,0.0,Aqua New Jersey,1,279.0,True,0.0,12587.0,99394.0,0.2243584651,Trenton,,,False
+08648,2019,103.0,New Jersey American Water,1,2865.0,True,35.95113438045375,32508.0,113214.0,0.427094869,Lawrence Township,,,False
+08648,2022,93.0,Aqua New Jersey,2,5522.0,True,16.841724013038753,32508.0,113214.0,0.427094869,Lawrence Township,,,False
+08648,2023,108.0,New Jersey American Water,2,5522.0,True,19.558131111915973,32508.0,113214.0,0.427094869,Lawrence Township,,,False
+08648,2024,88.0,New Jersey American Water,2,5522.0,True,15.936254980079681,32508.0,113214.0,0.427094869,Lawrence Township,,,False
+08690,2022,92.0,Aqua New Jersey,1,6145.0,True,14.971521562245728,20445.0,105158.0,0.1713866471,Trenton,,,False
+08690,2023,40.0,Aqua New Jersey,1,6145.0,True,6.509357200976404,20445.0,105158.0,0.1713866471,Trenton,,,False
+08690,2024,49.0,Aqua New Jersey,1,6145.0,True,7.973962571196094,20445.0,105158.0,0.1713866471,Trenton,,,False
+08691,2022,84.0,Aqua New Jersey,1,5117.0,True,16.415868673050614,16730.0,126733.0,0.3588762701999999,Trenton,,,False
+08691,2023,50.0,Aqua New Jersey,1,5117.0,True,9.771350400625366,16730.0,126733.0,0.3588762701999999,Trenton,,,False
+08691,2024,41.0,Aqua New Jersey,1,5117.0,True,8.0125073285128,16730.0,126733.0,0.3588762701999999,Trenton,,,False
+08701,2019,625.0,New Jersey American Water,1,17471.0,True,35.77356762635224,130352.0,53380.0,0.1419694366,Lakewood,,,False
+08701,2022,352.0,New Jersey American Water,1,17471.0,True,20.14767328716158,130352.0,53380.0,0.1419694366,Lakewood,,,False
+08701,2023,430.0,New Jersey American Water,1,17471.0,True,24.61221452693034,130352.0,53380.0,0.1419694366,Lakewood,,,False
+08701,2024,354.0,New Jersey American Water,1,17471.0,True,20.26214870356591,130352.0,53380.0,0.1419694366,Lakewood,,,False
+08721,2022,242.0,Aqua New Jersey,1,4178.0,True,57.922450933460986,21725.0,97087.0,0.2255466053,Bayville,,,False
+08721,2023,157.0,Aqua New Jersey,1,4178.0,True,37.577788415509815,21725.0,97087.0,0.2255466053,Bayville,,,False
+08721,2024,143.0,Aqua New Jersey,1,4178.0,True,34.226902824317854,21725.0,97087.0,0.2255466053,Bayville,,,False
+08723,2019,0.0,New Jersey American Water,1,35.0,True,0.0,32686.0,92434.0,0.1913663342,Brick,,,False
+08723,2022,0.0,New Jersey American Water,1,35.0,True,0.0,32686.0,92434.0,0.1913663342,Brick,,,False
+08723,2023,0.0,New Jersey American Water,1,35.0,True,0.0,32686.0,92434.0,0.1913663342,Brick,,,False
+08723,2024,1.0,New Jersey American Water,1,35.0,True,28.571428571428573,32686.0,92434.0,0.1913663342,Brick,,,False
+08724,2019,0.0,New Jersey American Water,1,6.0,True,0.0,39809.0,81793.0,0.1929714386,Brick,,,False
+08724,2022,0.0,New Jersey American Water,1,6.0,True,0.0,39809.0,81793.0,0.1929714386,Brick,,,False
+08724,2023,1.0,New Jersey American Water,1,6.0,True,166.66666666666666,39809.0,81793.0,0.1929714386,Brick,,,False
+08724,2024,0.0,New Jersey American Water,1,6.0,True,0.0,39809.0,81793.0,0.1929714386,Brick,,,False
+08735,2019,50.0,New Jersey American Water,1,3500.0,True,14.285714285714286,3982.0,76768.0,0.1097438473,Lavallette,,,False
+08735,2022,14.0,New Jersey American Water,1,3500.0,True,4.0,3982.0,76768.0,0.1097438473,Lavallette,,,False
+08735,2023,28.0,New Jersey American Water,1,3500.0,True,8.0,3982.0,76768.0,0.1097438473,Lavallette,,,False
+08735,2024,12.0,New Jersey American Water,1,3500.0,True,3.4285714285714284,3982.0,76768.0,0.1097438473,Lavallette,,,False
+08738,2019,30.0,New Jersey American Water,1,1380.0,True,21.73913043478261,1422.0,153636.0,0.07665260197,Mantoloking,,,False
+08738,2022,14.0,New Jersey American Water,1,1380.0,True,10.144927536231885,1422.0,153636.0,0.07665260197,Mantoloking,,,False
+08738,2023,15.0,New Jersey American Water,1,1380.0,True,10.869565217391305,1422.0,153636.0,0.07665260197,Mantoloking,,,False
+08738,2024,10.0,New Jersey American Water,1,1380.0,True,7.246376811594203,1422.0,153636.0,0.07665260197,Mantoloking,,,False
+08741,2022,7.0,Aqua New Jersey,1,193.0,True,36.26943005181347,2754.0,117969.0,0.0998547567199999,Pine Beach,,,False
+08741,2023,7.0,Aqua New Jersey,1,193.0,True,36.26943005181347,2754.0,117969.0,0.0998547567199999,Pine Beach,,,False
+08741,2024,2.0,Aqua New Jersey,1,193.0,True,10.362694300518134,2754.0,117969.0,0.0998547567199999,Pine Beach,,,False
+08742,2019,19.0,New Jersey American Water,1,956.0,True,19.8744769874477,24902.0,103079.0,0.1279415307999999,Point Pleasant Beach,,,False
+08742,2022,4.0,New Jersey American Water,1,956.0,True,4.184100418410042,24902.0,103079.0,0.1279415307999999,Point Pleasant Beach,,,False
+08742,2023,9.0,New Jersey American Water,1,956.0,True,9.414225941422593,24902.0,103079.0,0.1279415307999999,Point Pleasant Beach,,,False
+08742,2024,0.0,New Jersey American Water,1,956.0,True,0.0,24902.0,103079.0,0.1279415307999999,Point Pleasant Beach,,,False
+08751,2019,36.0,New Jersey American Water,1,2146.0,True,16.775396085740912,3671.0,63661.0,0.09506946336,Seaside Heights,,,False
+08751,2022,7.0,New Jersey American Water,1,2146.0,True,3.2618825722273996,3671.0,63661.0,0.09506946336,Seaside Heights,,,False
+08751,2023,12.0,New Jersey American Water,1,2146.0,True,5.591798695246971,3671.0,63661.0,0.09506946336,Seaside Heights,,,False
+08751,2024,12.0,New Jersey American Water,1,2146.0,True,5.591798695246971,3671.0,63661.0,0.09506946336,Seaside Heights,,,False
+08753,2022,0.0,New Jersey American Water,1,12.0,True,0.0,64708.0,90034.0,0.1811677072,Toms River,,,False
+08753,2023,1.0,New Jersey American Water,1,12.0,True,83.33333333333333,64708.0,90034.0,0.1811677072,Toms River,,,False
+08753,2024,0.0,New Jersey American Water,1,12.0,True,0.0,64708.0,90034.0,0.1811677072,Toms River,,,False
+08755,2019,0.0,New Jersey American Water,1,1.0,True,0.0,27164.0,73857.0,0.2276174348,Toms River,,,False
+08755,2022,0.0,New Jersey American Water,1,1.0,True,0.0,27164.0,73857.0,0.2276174348,Toms River,,,False
+08755,2023,0.0,New Jersey American Water,1,1.0,True,0.0,27164.0,73857.0,0.2276174348,Toms River,,,False
+08755,2024,0.0,New Jersey American Water,1,1.0,True,0.0,27164.0,73857.0,0.2276174348,Toms River,,,False
+08757,2022,0.0,New Jersey American Water,1,3.0,True,0.0,34957.0,50807.0,0.2063392168,Toms River,,,False
+08757,2023,0.0,New Jersey American Water,1,3.0,True,0.0,34957.0,50807.0,0.2063392168,Toms River,,,False
+08801,2019,0.0,New Jersey American Water,1,,False,,8296.0,143030.0,0.3088235294,Annandale,,,False
+08801,2022,0.0,Aqua New Jersey,2,,False,,8296.0,143030.0,0.3088235294,Annandale,,,False
+08801,2023,0.0,New Jersey American Water,2,,False,,8296.0,143030.0,0.3088235294,Annandale,,,False
+08801,2024,0.0,New Jersey American Water,1,,False,,8296.0,143030.0,0.3088235294,Annandale,,,False
+08802,2019,1.0,New Jersey American Water,1,12.0,True,83.33333333333333,4301.0,114083.0,0.0678911881,Asbury,,,False
+08802,2022,0.0,New Jersey American Water,1,12.0,True,0.0,4301.0,114083.0,0.0678911881,Asbury,,,False
+08802,2023,0.0,New Jersey American Water,1,12.0,True,0.0,4301.0,114083.0,0.0678911881,Asbury,,,False
+08802,2024,0.0,New Jersey American Water,1,12.0,True,0.0,4301.0,114083.0,0.0678911881,Asbury,,,False
+08804,2019,0.0,New Jersey American Water,1,,False,,2948.0,102065.0,0.1421302578,Bloomsbury,,,False
+08804,2022,9.0,Aqua New Jersey,2,,False,,2948.0,102065.0,0.1421302578,Bloomsbury,,,False
+08804,2023,9.0,Aqua New Jersey,2,,False,,2948.0,102065.0,0.1421302578,Bloomsbury,,,False
+08804,2024,7.0,Aqua New Jersey,2,,False,,2948.0,102065.0,0.1421302578,Bloomsbury,,,False
+08805,2019,135.0,New Jersey American Water,1,2842.0,True,47.501759324419425,13730.0,71942.0,0.5603058995,Bound Brook,,,False
+08805,2022,37.0,New Jersey American Water,1,2842.0,True,13.019000703729768,13730.0,71942.0,0.5603058995,Bound Brook,,,False
+08805,2023,139.0,New Jersey American Water,1,2842.0,True,48.909218859957775,13730.0,71942.0,0.5603058995,Bound Brook,,,False
+08805,2024,105.0,New Jersey American Water,1,2842.0,True,36.94581280788177,13730.0,71942.0,0.5603058995,Bound Brook,,,False
+08807,2019,119.0,New Jersey American Water,1,10958.0,True,10.859645920788465,38916.0,138549.0,0.4078785076,Bridgewater,,,False
+08807,2022,43.0,New Jersey American Water,1,10958.0,True,3.9240737360832267,38916.0,138549.0,0.4078785076,Bridgewater,,,False
+08807,2023,93.0,New Jersey American Water,1,10958.0,True,8.486950173389305,38916.0,138549.0,0.4078785076,Bridgewater,,,False
+08807,2024,62.0,New Jersey American Water,1,10958.0,True,5.657966782259536,38916.0,138549.0,0.4078785076,Bridgewater,,,False
+08809,2019,0.0,New Jersey American Water,1,,False,,6948.0,110369.0,0.2875647668,Clinton,,,False
+08809,2022,0.0,New Jersey American Water,1,,False,,6948.0,110369.0,0.2875647668,Clinton,,,False
+08809,2023,0.0,New Jersey American Water,1,,False,,6948.0,110369.0,0.2875647668,Clinton,,,False
+08809,2024,0.0,New Jersey American Water,1,,False,,6948.0,110369.0,0.2875647668,Clinton,,,False
+08810,2019,0.0,New Jersey American Water,1,1.0,True,0.0,8185.0,127975.0,0.7380574221,Dayton,,,False
+08810,2022,0.0,New Jersey American Water,1,1.0,True,0.0,8185.0,127975.0,0.7380574221,Dayton,,,False
+08810,2023,0.0,New Jersey American Water,1,1.0,True,0.0,8185.0,127975.0,0.7380574221,Dayton,,,False
+08810,2024,0.0,New Jersey American Water,1,1.0,True,0.0,8185.0,127975.0,0.7380574221,Dayton,,,False
+08812,2019,159.0,New Jersey American Water,1,4450.0,True,35.73033707865169,14074.0,104295.0,0.5029131732,Dunellen,,,False
+08812,2022,36.0,New Jersey American Water,1,4450.0,True,8.089887640449438,14074.0,104295.0,0.5029131732,Dunellen,,,False
+08812,2023,61.0,New Jersey American Water,1,4450.0,True,13.707865168539326,14074.0,104295.0,0.5029131732,Dunellen,,,False
+08812,2024,66.0,New Jersey American Water,1,4450.0,True,14.831460674157304,14074.0,104295.0,0.5029131732,Dunellen,,,False
+08816,2019,0.0,Middlesex Water,1,,False,,48950.0,127717.0,0.477875383,East Brunswick,,,False
+08816,2022,0.0,Middlesex Water,1,,False,,48950.0,127717.0,0.477875383,East Brunswick,,,False
+08816,2023,0.0,Middlesex Water,1,,False,,48950.0,127717.0,0.477875383,East Brunswick,,,False
+08817,2019,5.0,Middlesex Water,1,1.0,True,5000.0,47590.0,98184.0,0.6746375289,Edison,,,False
+08817,2022,0.0,New Jersey American Water,2,52.0,True,0.0,47590.0,98184.0,0.6746375289,Edison,,,False
+08817,2023,3.0,Middlesex Water,2,52.0,True,57.69230769230769,47590.0,98184.0,0.6746375289,Edison,,,False
+08817,2024,2.0,Middlesex Water,2,52.0,True,38.46153846153846,47590.0,98184.0,0.6746375289,Edison,,,False
+08820,2019,145.0,Middlesex Water,2,2033.0,True,71.32316773241514,40083.0,146149.0,0.7990419878999999,Edison,,,False
+08820,2022,64.0,Middlesex Water,2,2033.0,True,31.48057058534186,40083.0,146149.0,0.7990419878999999,Edison,,,False
+08820,2023,81.0,Middlesex Water,2,2033.0,True,39.84259714707329,40083.0,146149.0,0.7990419878999999,Edison,,,False
+08820,2024,66.0,Middlesex Water,2,2033.0,True,32.46433841613379,40083.0,146149.0,0.7990419878999999,Edison,,,False
+08822,2019,57.0,New Jersey American Water,1,4181.0,True,13.63310212867735,30717.0,121220.0,0.2138555197,Flemington,,,False
+08822,2022,20.0,New Jersey American Water,1,4181.0,True,4.783544606553456,30717.0,121220.0,0.2138555197,Flemington,,,False
+08822,2023,25.0,New Jersey American Water,1,4181.0,True,5.97943075819182,30717.0,121220.0,0.2138555197,Flemington,,,False
+08822,2024,49.0,New Jersey American Water,1,4181.0,True,11.719684286055967,30717.0,121220.0,0.2138555197,Flemington,,,False
+08825,2019,2.0,New Jersey American Water,1,423.0,True,4.7281323877068555,4611.0,109125.0,0.1249186727,Frenchtown,,,False
+08825,2022,2.0,New Jersey American Water,1,423.0,True,4.7281323877068555,4611.0,109125.0,0.1249186727,Frenchtown,,,False
+08825,2023,2.0,New Jersey American Water,1,423.0,True,4.7281323877068555,4611.0,109125.0,0.1249186727,Frenchtown,,,False
+08825,2024,3.0,New Jersey American Water,1,423.0,True,7.092198581560283,4611.0,109125.0,0.1249186727,Frenchtown,,,False
+08830,2019,87.0,Middlesex Water,1,8816.0,True,9.868421052631579,17684.0,103179.0,0.7220085953000001,Iselin,,,False
+08830,2022,90.0,Middlesex Water,1,8816.0,True,10.208711433756806,17684.0,103179.0,0.7220085953000001,Iselin,,,False
+08830,2023,119.0,Middlesex Water,1,8816.0,True,13.498185117967331,17684.0,103179.0,0.7220085953000001,Iselin,,,False
+08830,2024,89.0,Middlesex Water,1,8816.0,True,10.095281306715064,17684.0,103179.0,0.7220085953000001,Iselin,,,False
+08831,2019,150.0,New Jersey American Water,1,1801.0,True,83.2870627429206,53894.0,101137.0,0.3199799607,Monroe Township,,,False
+08831,2022,35.0,New Jersey American Water,1,1801.0,True,19.43364797334814,53894.0,101137.0,0.3199799607,Monroe Township,,,False
+08831,2023,61.0,New Jersey American Water,1,1801.0,True,33.87007218212104,53894.0,101137.0,0.3199799607,Monroe Township,,,False
+08831,2024,41.0,New Jersey American Water,1,1801.0,True,22.765130483064965,53894.0,101137.0,0.3199799607,Monroe Township,,,False
+08832,2019,19.0,Middlesex Water,1,2769.0,True,6.861682918020946,2937.0,71071.0,0.8760640109000001,Keasbey,,,False
+08832,2022,15.0,Middlesex Water,1,2769.0,True,5.417118093174431,2937.0,71071.0,0.8760640109000001,Keasbey,,,False
+08832,2023,12.0,Middlesex Water,1,2769.0,True,4.333694474539545,2937.0,71071.0,0.8760640109000001,Keasbey,,,False
+08832,2024,3.0,Middlesex Water,1,2769.0,True,1.0834236186348862,2937.0,71071.0,0.8760640109000001,Keasbey,,,False
+08835,2019,126.0,New Jersey American Water,1,3656.0,True,34.46389496717724,10861.0,79766.0,0.3019979744,Manville,,,False
+08835,2022,39.0,New Jersey American Water,1,3656.0,True,10.667396061269146,10861.0,79766.0,0.3019979744,Manville,,,False
+08835,2023,88.0,New Jersey American Water,1,3656.0,True,24.070021881838073,10861.0,79766.0,0.3019979744,Manville,,,False
+08835,2024,51.0,New Jersey American Water,1,3656.0,True,13.949671772428884,10861.0,79766.0,0.3019979744,Manville,,,False
+08836,2019,18.0,Middlesex Water,2,,False,,4220.0,187625.0,0.2836492891,Martinsville,,,False
+08836,2022,6.0,New Jersey American Water,2,,False,,4220.0,187625.0,0.2836492891,Martinsville,,,False
+08836,2023,3.0,New Jersey American Water,2,,False,,4220.0,187625.0,0.2836492891,Martinsville,,,False
+08836,2024,2.0,New Jersey American Water,1,616.0,True,3.2467532467532467,4220.0,187625.0,0.2836492891,Martinsville,,,False
+08837,2019,60.0,Middlesex Water,1,1.0,True,60000.0,19371.0,98468.0,0.6967115792,Edison,,,False
+08837,2022,26.0,Middlesex Water,1,1.0,True,26000.0,19371.0,98468.0,0.6967115792,Edison,,,False
+08837,2023,37.0,Middlesex Water,1,1.0,True,37000.0,19371.0,98468.0,0.6967115792,Edison,,,False
+08837,2024,23.0,Middlesex Water,1,1.0,True,23000.0,19371.0,98468.0,0.6967115792,Edison,,,False
+08840,2019,79.0,Middlesex Water,1,7.0,True,11285.714285714286,17757.0,137399.0,0.4185954835,Metuchen,,,False
+08840,2022,1.0,Middlesex Water,1,7.0,True,142.85714285714286,17757.0,137399.0,0.4185954835,Metuchen,,,False
+08840,2023,36.0,Middlesex Water,1,7.0,True,5142.857142857143,17757.0,137399.0,0.4185954835,Metuchen,,,False
+08840,2024,49.0,Middlesex Water,1,7.0,True,7000.0,17757.0,137399.0,0.4185954835,Metuchen,,,False
+08844,2019,197.0,New Jersey American Water,1,10380.0,True,18.978805394990367,42818.0,145903.0,0.3833668084,Hillsborough,,,False
+08844,2022,23.0,New Jersey American Water,1,10380.0,True,2.2157996146435455,42818.0,145903.0,0.3833668084,Hillsborough,,,False
+08844,2023,74.0,New Jersey American Water,1,10380.0,True,7.129094412331407,42818.0,145903.0,0.3833668084,Hillsborough,,,False
+08844,2024,66.0,New Jersey American Water,1,10380.0,True,6.358381502890174,42818.0,145903.0,0.3833668084,Hillsborough,,,False
+08846,2019,112.0,New Jersey American Water,1,4182.0,True,26.781444285031085,14513.0,90162.0,0.4290635982,Middlesex,,,False
+08846,2022,35.0,New Jersey American Water,1,4182.0,True,8.369201339072214,14513.0,90162.0,0.4290635982,Middlesex,,,False
+08846,2023,26.0,New Jersey American Water,1,4182.0,True,6.217120994739359,14513.0,90162.0,0.4290635982,Middlesex,,,False
+08846,2024,41.0,New Jersey American Water,1,4182.0,True,9.803921568627452,14513.0,90162.0,0.4290635982,Middlesex,,,False
+08848,2022,3.0,Aqua New Jersey,1,327.0,True,9.174311926605505,8463.0,121715.0,0.0432470755,Milford,,,False
+08848,2023,3.0,Aqua New Jersey,1,327.0,True,9.174311926605505,8463.0,121715.0,0.0432470755,Milford,,,False
+08848,2024,5.0,Aqua New Jersey,1,327.0,True,15.290519877675841,8463.0,121715.0,0.0432470755,Milford,,,False
+08850,2019,0.0,New Jersey American Water,1,1.0,True,0.0,8364.0,111081.0,0.1978718317,Milltown,,,False
+08850,2022,0.0,New Jersey American Water,1,1.0,True,0.0,8364.0,111081.0,0.1978718317,Milltown,,,False
+08850,2023,0.0,New Jersey American Water,1,1.0,True,0.0,8364.0,111081.0,0.1978718317,Milltown,,,False
+08850,2024,0.0,New Jersey American Water,1,1.0,True,0.0,8364.0,111081.0,0.1978718317,Milltown,,,False
+08853,2019,12.0,New Jersey American Water,1,542.0,True,22.14022140221402,5260.0,192681.0,0.2224334601,Neshanic Station,,,False
+08853,2022,4.0,New Jersey American Water,1,542.0,True,7.380073800738008,5260.0,192681.0,0.2224334601,Neshanic Station,,,False
+08853,2023,5.0,New Jersey American Water,1,542.0,True,9.22509225092251,5260.0,192681.0,0.2224334601,Neshanic Station,,,False
+08853,2024,2.0,New Jersey American Water,1,542.0,True,3.690036900369004,5260.0,192681.0,0.2224334601,Neshanic Station,,,False
+08854,2019,414.0,New Jersey American Water,1,11996.0,True,34.51150383461154,60467.0,112980.0,0.7429176245,Piscataway,,,False
+08854,2022,106.0,New Jersey American Water,1,11996.0,True,8.836278759586529,60467.0,112980.0,0.7429176245,Piscataway,,,False
+08854,2023,71.0,New Jersey American Water,1,11996.0,True,5.9186395465155055,60467.0,112980.0,0.7429176245,Piscataway,,,False
+08854,2024,106.0,New Jersey American Water,1,11996.0,True,8.836278759586529,60467.0,112980.0,0.7429176245,Piscataway,,,False
+08858,2019,1.0,New Jersey American Water,1,27.0,True,37.03703703703704,0.0,0.0,1.0,Oldwick,,,False
+08858,2022,0.0,New Jersey American Water,1,27.0,True,0.0,0.0,0.0,1.0,Oldwick,,,False
+08858,2023,1.0,New Jersey American Water,1,27.0,True,37.03703703703704,0.0,0.0,1.0,Oldwick,,,False
+08858,2024,0.0,New Jersey American Water,1,27.0,True,0.0,0.0,0.0,1.0,Oldwick,,,False
+08861,2019,45.0,Middlesex Water,1,218.0,True,206.42201834862385,57515.0,54587.0,0.8429800921999999,Perth Amboy,,,False
+08861,2022,10.0,Middlesex Water,1,218.0,True,45.87155963302752,57515.0,54587.0,0.8429800921999999,Perth Amboy,,,False
+08861,2023,27.0,Middlesex Water,1,218.0,True,123.85321100917432,57515.0,54587.0,0.8429800921999999,Perth Amboy,,,False
+08861,2024,14.0,Middlesex Water,1,218.0,True,64.22018348623853,57515.0,54587.0,0.8429800921999999,Perth Amboy,,,False
+08863,2019,84.0,Middlesex Water,1,810.0,True,103.70370370370371,12897.0,105505.0,0.5843219353,Fords,,,False
+08863,2022,61.0,Middlesex Water,1,810.0,True,75.30864197530865,12897.0,105505.0,0.5843219353,Fords,,,False
+08863,2023,106.0,Middlesex Water,1,810.0,True,130.8641975308642,12897.0,105505.0,0.5843219353,Fords,,,False
+08863,2024,60.0,Middlesex Water,1,810.0,True,74.07407407407408,12897.0,105505.0,0.5843219353,Fords,,,False
+08865,2022,345.0,Aqua New Jersey,1,8664.0,True,39.81994459833795,30179.0,66779.0,0.2640246529,Phillipsburg,,,False
+08865,2023,619.0,Aqua New Jersey,1,8664.0,True,71.44506001846722,30179.0,66779.0,0.2640246529,Phillipsburg,,,False
+08865,2024,416.0,Aqua New Jersey,1,8664.0,True,48.01477377654663,30179.0,66779.0,0.2640246529,Phillipsburg,,,False
+08867,2019,0.0,New Jersey American Water,1,,False,,5436.0,164259.0,0.05132450331,Pittstown,,,False
+08867,2022,0.0,New Jersey American Water,1,,False,,5436.0,164259.0,0.05132450331,Pittstown,,,False
+08867,2023,0.0,New Jersey American Water,1,,False,,5436.0,164259.0,0.05132450331,Pittstown,,,False
+08867,2024,0.0,New Jersey American Water,1,,False,,5436.0,164259.0,0.05132450331,Pittstown,,,False
+08869,2019,44.0,New Jersey American Water,1,2207.0,True,19.93656547349343,7993.0,90125.0,0.4034780433,Raritan,,,False
+08869,2022,14.0,New Jersey American Water,1,2207.0,True,6.343452650657,7993.0,90125.0,0.4034780433,Raritan,,,False
+08869,2023,24.0,New Jersey American Water,1,2207.0,True,10.874490258269145,7993.0,90125.0,0.4034780433,Raritan,,,False
+08869,2024,18.0,New Jersey American Water,1,2207.0,True,8.155867693701857,7993.0,90125.0,0.4034780433,Raritan,,,False
+08873,2019,6.0,New Jersey American Water,1,260.0,True,23.076923076923077,55115.0,98251.0,0.6769663430999999,Somerset,,,False
+08873,2022,5.0,New Jersey American Water,1,260.0,True,19.23076923076923,55115.0,98251.0,0.6769663430999999,Somerset,,,False
+08873,2023,9.0,New Jersey American Water,1,260.0,True,34.61538461538461,55115.0,98251.0,0.6769663430999999,Somerset,,,False
+08873,2024,8.0,New Jersey American Water,1,260.0,True,30.76923076923077,55115.0,98251.0,0.6769663430999999,Somerset,,,False
+08876,2019,114.0,New Jersey American Water,1,6441.0,True,17.699115044247787,22691.0,108769.0,0.3534440968,Somerville,,,False
+08876,2022,30.0,New Jersey American Water,1,6441.0,True,4.657661853749418,22691.0,108769.0,0.3534440968,Somerville,,,False
+08876,2023,56.0,New Jersey American Water,1,6441.0,True,8.694302126998913,22691.0,108769.0,0.3534440968,Somerville,,,False
+08876,2024,91.0,New Jersey American Water,1,6441.0,True,14.128240956373235,22691.0,108769.0,0.3534440968,Somerville,,,False
+08879,2019,92.0,Middlesex Water,1,3089.0,True,29.783101327290385,21940.0,89041.0,0.4002734731,South Amboy,,,False
+08879,2022,99.0,Middlesex Water,1,3089.0,True,32.04920686306248,21940.0,89041.0,0.4002734731,South Amboy,,,False
+08879,2023,19.0,Middlesex Water,1,3089.0,True,6.150857882809971,21940.0,89041.0,0.4002734731,South Amboy,,,False
+08879,2024,77.0,Middlesex Water,1,3089.0,True,24.92716089349304,21940.0,89041.0,0.4002734731,South Amboy,,,False
+08880,2019,48.0,New Jersey American Water,1,1351.0,True,35.529237601776465,4818.0,83986.0,0.5907015359,South Bound Brook,,,False
+08880,2022,19.0,New Jersey American Water,1,1351.0,True,14.063656550703183,4818.0,83986.0,0.5907015359,South Bound Brook,,,False
+08880,2023,37.0,New Jersey American Water,1,1351.0,True,27.387120651369354,4818.0,83986.0,0.5907015359,South Bound Brook,,,False
+08880,2024,23.0,New Jersey American Water,1,1351.0,True,17.024426350851222,4818.0,83986.0,0.5907015359,South Bound Brook,,,False
+08886,2022,34.0,Aqua New Jersey,2,1920.0,True,17.708333333333332,7225.0,139132.0,0.2501038062,Stewartsville,,,False
+08886,2023,32.0,Aqua New Jersey,2,1920.0,True,16.666666666666668,7225.0,139132.0,0.2501038062,Stewartsville,,,False
+08886,2024,32.0,Aqua New Jersey,2,1920.0,True,16.666666666666668,7225.0,139132.0,0.2501038062,Stewartsville,,,False
+08887,2019,0.0,New Jersey American Water,1,47.0,True,0.0,1294.0,91964.0,0.4018547140999999,Three Bridges,,,False
+08887,2022,0.0,New Jersey American Water,1,47.0,True,0.0,1294.0,91964.0,0.4018547140999999,Three Bridges,,,False
+08887,2023,0.0,New Jersey American Water,1,47.0,True,0.0,1294.0,91964.0,0.4018547140999999,Three Bridges,,,False
+08887,2024,0.0,New Jersey American Water,1,47.0,True,0.0,1294.0,91964.0,0.4018547140999999,Three Bridges,,,False
+08889,2019,4.0,New Jersey American Water,1,1270.0,True,3.1496062992125986,10269.0,114830.0,0.1786931541999999,Whitehouse Station,,,False
+08889,2022,1.0,New Jersey American Water,1,1270.0,True,0.7874015748031497,10269.0,114830.0,0.1786931541999999,Whitehouse Station,,,False
+08889,2023,7.0,New Jersey American Water,2,,False,,10269.0,114830.0,0.1786931541999999,Whitehouse Station,,,False
+08889,2024,7.0,New Jersey American Water,1,1270.0,True,5.511811023622047,10269.0,114830.0,0.1786931541999999,Whitehouse Station,,,False

@@ -1,0 +1,88 @@
+{
+  "synthetic": false,
+  "train_years": [
+    2023
+  ],
+  "test_year": 2024,
+  "n_test_zips": 313,
+  "forecast_year": 2025,
+  "main": {
+    "k": 31,
+    "capture_headwater": 0.4642270701384002,
+    "capture_persistence": 0.48995230276018453,
+    "capture_best_possible": 0.5390570021111893,
+    "newly_hot_zips": 8,
+    "newly_hot_caught_by_headwater": 2,
+    "rank_corr_headwater": 0.8732223166269183,
+    "rank_corr_persistence": 0.8980207629616961
+  },
+  "by_k": [
+    {
+      "k": 16,
+      "capture_headwater": 0.27023223082336384,
+      "capture_persistence": 0.3599186801157245,
+      "capture_best_possible": 0.3748533896317148,
+      "newly_hot_zips": 3,
+      "newly_hot_caught_by_headwater": 0,
+      "rank_corr_headwater": 0.8732223166269183,
+      "rank_corr_persistence": 0.8980207629616961
+    },
+    {
+      "k": 31,
+      "capture_headwater": 0.4642270701384002,
+      "capture_persistence": 0.48995230276018453,
+      "capture_best_possible": 0.5390570021111893,
+      "newly_hot_zips": 8,
+      "newly_hot_caught_by_headwater": 2,
+      "rank_corr_headwater": 0.8732223166269183,
+      "rank_corr_persistence": 0.8980207629616961
+    },
+    {
+      "k": 63,
+      "capture_headwater": 0.6730002345765893,
+      "capture_persistence": 0.7020095394479631,
+      "capture_best_possible": 0.7416529830322933,
+      "newly_hot_zips": 13,
+      "newly_hot_caught_by_headwater": 2,
+      "rank_corr_headwater": 0.8732223166269183,
+      "rank_corr_persistence": 0.8980207629616961
+    }
+  ],
+  "importance": [
+    [
+      "Shutoffs this year",
+      0.23000168403427415
+    ],
+    [
+      "Residential water customers",
+      0.07400184275657029
+    ],
+    [
+      "Median household income",
+      0.016794045412926957
+    ],
+    [
+      "utility: Veolia New Jersey",
+      0.0005823654834898551
+    ],
+    [
+      "Number of utilities serving the ZIP",
+      0.0
+    ],
+    [
+      "utility: Aqua New Jersey",
+      -0.0012271506103834428
+    ],
+    [
+      "utility: Middlesex Water",
+      -0.002141926286623358
+    ],
+    [
+      "utility: New Jersey American Water",
+      -0.01307263665010206
+    ]
+  ],
+  "race_used": true,
+  "flag_count": 33,
+  "top_share": 0.1
+}
